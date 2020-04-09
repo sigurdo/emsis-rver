@@ -1,137 +1,77 @@
-[19:14:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:14:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:14:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:14:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:14:19] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:14:19] [Server thread/INFO]: Loading properties
-[19:14:19] [Server thread/INFO]: Default game type: SURVIVAL
-[19:14:19] [Server thread/INFO]: Generating keypair
-[19:14:19] [Server thread/INFO]: Starting Minecraft server on 10.0.0.19:25565
-[19:14:19] [Server thread/INFO]: Using default channel type
-[19:14:20] [Server thread/INFO]: Preparing level "world"
-[19:14:20] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:14:21] [Server thread/INFO]: Loaded 6 recipes
-[19:14:21] [Server thread/INFO]: Loaded 825 advancements
-[19:14:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:14:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:14:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:14:23] [Server thread/INFO]: Preparing spawn area: 0%
-[19:14:25] [User Authenticator #2/INFO]: Disconnecting /81.191.238.173:65443: Failed to verify username!
-[19:14:25] [User Authenticator #2/ERROR]: Username 'sigi99' tried to join with an invalid session
-[19:14:25] [User Authenticator #1/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[19:14:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[19:14:25] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[19:14:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[19:14:27] [Server-Worker-2/INFO]: Preparing spawn area: 91%
-[19:14:27] [Server-Worker-6/INFO]: Preparing spawn area: 91%
-[19:14:27] [Server-Worker-6/INFO]: Preparing spawn area: 91%
-[19:14:27] [Server-Worker-6/INFO]: Preparing spawn area: 91%
-[19:14:27] [User Authenticator #3/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[19:14:27] [Server-Worker-4/INFO]: Preparing spawn area: 91%
-[19:14:28] [Server-Worker-1/INFO]: Preparing spawn area: 93%
-[19:14:28] [Server thread/INFO]: Time elapsed: 5935 ms
-[19:14:28] [Server thread/INFO]: Done (7.804s)! For help, type "help"
-[19:14:28] [Server thread/INFO]: /81.191.238.173:65443 lost connection: Failed to verify username!
-[19:14:28] [Server thread/INFO]: sigi99[/81.191.238.173:65441] logged in with entity id 297 at (-234.5, 73.0, 249.5)
-[19:14:28] [Server thread/INFO]: sigi99 joined the game
-[19:14:30] [Server thread/INFO]: sigi99 lost connection: You logged in from another location
-[19:14:30] [Server thread/INFO]: sigi99 left the game
-[19:14:30] [Server thread/INFO]: sigi99[/81.191.238.173:65442] logged in with entity id 298 at (-234.5, 73.0, 249.5)
-[19:14:30] [Server thread/INFO]: sigi99 joined the game
-[19:15:52] [User Authenticator #4/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[19:15:52] [Server thread/INFO]: henrim[/31.45.102.253:56307] logged in with entity id 426 at (-248.9671433853049, 74.0, 206.1965634966783)
-[19:15:52] [Server thread/INFO]: henrim joined the game
-[19:24:08] [Server thread/INFO]: /advancement (grant|revoke)
-[19:24:08] [Server thread/INFO]: /ban <targets> [<reason>]
-[19:24:08] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[19:24:08] [Server thread/INFO]: /banlist [ips|players]
-[19:24:08] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[19:24:08] [Server thread/INFO]: /clear [<targets>]
-[19:24:08] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[19:24:08] [Server thread/INFO]: /data (get|merge|modify|remove)
-[19:24:08] [Server thread/INFO]: /datapack (disable|enable|list)
-[19:24:08] [Server thread/INFO]: /debug (report|start|stop)
-[19:24:08] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[19:24:08] [Server thread/INFO]: /deop <targets>
-[19:24:08] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[19:24:08] [Server thread/INFO]: /effect (clear|give)
-[19:24:08] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[19:24:08] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[19:24:08] [Server thread/INFO]: /experience (add|query|set)
-[19:24:08] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[19:24:08] [Server thread/INFO]: /forceload (add|query|remove)
-[19:24:08] [Server thread/INFO]: /function <name>
-[19:24:08] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[19:24:08] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[19:24:08] [Server thread/INFO]: /give <targets> <item> [<count>]
-[19:24:08] [Server thread/INFO]: /help [<command>]
-[19:24:08] [Server thread/INFO]: /kick <targets> [<reason>]
-[19:24:08] [Server thread/INFO]: /kill [<targets>]
-[19:24:08] [Server thread/INFO]: /list [uuids]
-[19:24:08] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[19:24:08] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[19:24:08] [Server thread/INFO]: /me <action>
-[19:24:08] [Server thread/INFO]: /msg <targets> <message>
-[19:24:08] [Server thread/INFO]: /op <targets>
-[19:24:08] [Server thread/INFO]: /pardon <targets>
-[19:24:08] [Server thread/INFO]: /pardon-ip <target>
-[19:24:08] [Server thread/INFO]: /particle <name> [<pos>]
-[19:24:08] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[19:24:08] [Server thread/INFO]: /recipe (give|take)
-[19:24:08] [Server thread/INFO]: /reload
-[19:24:08] [Server thread/INFO]: /replaceitem (block|entity)
-[19:24:08] [Server thread/INFO]: /save-all [flush]
-[19:24:08] [Server thread/INFO]: /save-off
-[19:24:08] [Server thread/INFO]: /save-on
-[19:24:08] [Server thread/INFO]: /say <message>
-[19:24:08] [Server thread/INFO]: /schedule (clear|function)
-[19:24:08] [Server thread/INFO]: /scoreboard (objectives|players)
-[19:24:08] [Server thread/INFO]: /seed
-[19:24:08] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[19:24:08] [Server thread/INFO]: /setidletimeout <minutes>
-[19:24:08] [Server thread/INFO]: /setworldspawn [<pos>]
-[19:24:08] [Server thread/INFO]: /spawnpoint [<targets>]
-[19:24:08] [Server thread/INFO]: /spectate [<target>]
-[19:24:08] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[19:24:08] [Server thread/INFO]: /stop
-[19:24:08] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[19:24:08] [Server thread/INFO]: /summon <entity> [<pos>]
-[19:24:08] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[19:24:08] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[19:24:08] [Server thread/INFO]: /teammsg <message>
-[19:24:08] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[19:24:08] [Server thread/INFO]: /tell -> msg
-[19:24:08] [Server thread/INFO]: /tellraw <targets> <message>
-[19:24:08] [Server thread/INFO]: /time (add|query|set)
-[19:24:08] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[19:24:08] [Server thread/INFO]: /tm -> teammsg
-[19:24:08] [Server thread/INFO]: /tp -> teleport
-[19:24:08] [Server thread/INFO]: /trigger <objective> [add|set]
-[19:24:08] [Server thread/INFO]: /w -> msg
-[19:24:08] [Server thread/INFO]: /weather (clear|rain|thunder)
-[19:24:08] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[19:24:08] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[19:24:08] [Server thread/INFO]: /xp -> experience
-[19:24:30] [Server thread/INFO]: Set the time to 0
-[19:26:53] [User Authenticator #5/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[19:26:53] [Server thread/INFO]: sigi99 lost connection: You logged in from another location
-[19:26:53] [Server thread/INFO]: sigi99 left the game
-[19:26:53] [Server thread/INFO]: sigi99[/81.191.238.173:49210] logged in with entity id 1793 at (-234.5, 73.0, 249.5)
-[19:26:53] [Server thread/INFO]: sigi99 joined the game
-[19:28:33] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[19:28:33] [Server thread/INFO]: sigi99 left the game
-[19:28:35] [Server thread/INFO]: henrim lost connection: Disconnected
-[19:28:35] [Server thread/INFO]: henrim left the game
-[19:28:42] [Server thread/INFO]: Stopping the server
-[19:28:42] [Server thread/INFO]: Stopping server
-[19:28:42] [Server thread/INFO]: Saving players
-[19:28:42] [Server thread/INFO]: Saving worlds
-[19:28:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:28:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:28:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:52:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:52:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:52:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:37] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:52:37] [Server thread/INFO]: Loading properties
+[19:52:37] [Server thread/INFO]: Default game type: SURVIVAL
+[19:52:37] [Server thread/INFO]: Generating keypair
+[19:52:37] [Server thread/INFO]: Starting Minecraft server on 25.129.98.38:25565
+[19:52:37] [Server thread/INFO]: Using default channel type
+[19:52:39] [Server thread/INFO]: Preparing level "world"
+[19:52:39] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:52:40] [Server thread/INFO]: Loaded 6 recipes
+[19:52:41] [Server thread/INFO]: Loaded 825 advancements
+[19:53:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:53:15] [Server thread/INFO]: Preparing spawn area: 0%
+[19:53:15] [Server thread/INFO]: Preparing spawn area: 0%
+[19:53:15] [Server thread/INFO]: Preparing spawn area: 0%
+[19:53:15] [Server thread/INFO]: Preparing spawn area: 0%
+[19:53:21] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[19:53:21] [Server-Worker-2/INFO]: Preparing spawn area: 99%
+[19:53:21] [Server thread/INFO]: Time elapsed: 7767 ms
+[19:53:21] [Server thread/INFO]: Done (42.819s)! For help, type "help"
+[19:53:40] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[19:53:40] [Server thread/INFO]: henrim[/25.129.97.77:57406] logged in with entity id 262 at (-213.5876507394441, 84.0, 255.8658986180666)
+[19:53:40] [Server thread/INFO]: henrim joined the game
+[19:53:53] [Server thread/INFO]: Unknown command
+[19:53:53] [Server thread/INFO]: toggledownfall<--[HERE]
+[19:54:04] [Server thread/INFO]: Unknown command
+[19:54:04] [Server thread/INFO]: set weather clear<--[HERE]
+[19:54:10] [Server thread/INFO]: Set the weather to clear
+[19:54:28] [Server thread/INFO]: Set the time to 13000
+[19:54:35] [Server thread/INFO]: Expected float
+[19:54:35] [Server thread/INFO]: time set sunrise<--[HERE]
+[19:54:41] [Server thread/INFO]: Set the time to 23000
+[19:55:11] [User Authenticator #2/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[19:55:12] [Server thread/INFO]: sigi99[/25.129.98.38:49677] logged in with entity id 670 at (-213.8876569218582, 95.0, 252.34590589644966)
+[19:55:12] [Server thread/INFO]: sigi99 joined the game
+[19:55:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:55:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[19:55:43] [Server thread/INFO]: sigi99 has made the advancement [Stone Age]
+[19:56:22] [Server thread/INFO]: sigi99 has made the advancement [Getting an Upgrade]
+[19:56:39] [Server thread/INFO]: henrim has made the advancement [Stone Age]
+[19:57:19] [Server thread/INFO]: henrim has made the advancement [Getting an Upgrade]
+[19:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3987ms or 79 ticks behind
+[19:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:00:20] [Server thread/INFO]: henrim was shot by Skeleton
+[20:01:11] [Server thread/INFO]: henrim has made the advancement [Monster Hunter]
+[20:01:15] [Server thread/INFO]: henrim was shot by Skeleton
+[20:01:46] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[20:01:46] [Server thread/INFO]: sigi99 left the game
+[20:02:01] [Server thread/INFO]: Stopping the server
+[20:02:01] [Server thread/INFO]: Stopping server
+[20:02:01] [Server thread/INFO]: Saving players
+[20:02:01] [Server thread/INFO]: henrim lost connection: Internal Exception: java.lang.StackOverflowError
+[20:02:01] [Server thread/INFO]: henrim left the game
+[20:02:01] [Server thread/INFO]: Saving worlds
+[20:02:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:02:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:02:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:02:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:02:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
