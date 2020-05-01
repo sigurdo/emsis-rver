@@ -59,9 +59,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-04-12 23:33:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
     },
     "done": true
   },
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-05-01 23:28:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:32:57 +0200"
@@ -104,6 +122,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-10 20:57:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
     },
     "done": true
   },
@@ -167,15 +191,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-09 19:55:34 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-05-01 22:02:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
     },
     "done": true
   },
@@ -203,6 +245,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-04-09 19:55:34 +0200"
@@ -227,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 20:38:03 +0200"
@@ -248,6 +314,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-04-09 19:39:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
     },
     "done": true
   },
@@ -299,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-05-01 23:13:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-04-10 20:32:14 +0200"
@@ -314,6 +392,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 20:38:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-05-01 22:57:11 +0200"
     },
     "done": true
   },
@@ -341,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2020-04-10 20:42:58 +0200",
@@ -348,7 +438,8 @@
       "apple": "2020-04-09 20:00:39 +0200",
       "bread": "2020-04-12 18:48:14 +0200",
       "rotten_flesh": "2020-04-10 20:33:29 +0200",
-      "cooked_chicken": "2020-04-09 20:00:51 +0200"
+      "cooked_chicken": "2020-04-09 20:00:51 +0200",
+      "cooked_salmon": "2020-05-01 23:13:28 +0200"
     },
     "done": false
   },
@@ -400,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-05-01 23:08:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:32:57 +0200"
@@ -409,6 +506,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2020-04-10 20:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-01 23:28:02 +0200"
     },
     "done": true
   },
@@ -463,6 +566,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-04-12 21:02:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-05-01 22:35:52 +0200"
     },
     "done": true
   },
@@ -532,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2020-04-12 18:41:43 +0200",
@@ -557,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-05-01 21:27:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 20:38:03 +0200"
@@ -573,6 +694,12 @@
     "criteria": {
       "iron_boots": "2020-04-12 21:13:04 +0200",
       "iron_chestplate": "2020-04-12 21:13:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-01 23:28:02 +0200"
     },
     "done": true
   },
@@ -603,6 +730,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-05-01 23:19:53 +0200"
     },
     "done": true
   },
@@ -642,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-05-01 22:35:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 20:38:03 +0200"
@@ -666,6 +805,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-05-01 23:08:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-01 23:28:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-04-09 20:00:39 +0200"
@@ -675,6 +826,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2020-04-10 20:50:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-05-01 23:28:02 +0200"
     },
     "done": true
   },
@@ -750,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-05-01 22:57:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-04-10 20:32:33 +0200"
@@ -792,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2020-04-09 19:55:43 +0200"
@@ -807,6 +976,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2020-04-12 19:44:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
     },
     "done": true
   },
@@ -841,14 +1016,22 @@
       "minecraft:spider": "2020-04-12 23:50:28 +0200",
       "minecraft:creeper": "2020-04-12 19:29:26 +0200",
       "minecraft:witch": "2020-04-12 23:51:19 +0200",
+      "minecraft:husk": "2020-05-01 23:16:05 +0200",
       "minecraft:enderman": "2020-04-12 23:47:48 +0200",
-      "minecraft:zombie": "2020-04-10 20:30:50 +0200"
+      "minecraft:zombie": "2020-04-10 20:30:50 +0200",
+      "minecraft:drowned": "2020-05-01 23:00:14 +0200"
     },
     "done": false
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-04-10 21:03:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
     },
     "done": true
   },
@@ -918,9 +1101,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-05-01 22:57:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-04-12 20:59:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
     },
     "done": true
   },
@@ -1009,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-05-01 23:26:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-04-10 20:32:33 +0200"
@@ -1021,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2020-05-01 21:13:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-04-09 19:39:08 +0200"
@@ -1030,6 +1243,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-10 20:57:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2020-05-01 23:28:02 +0200"
     },
     "done": true
   },
@@ -1051,9 +1270,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-05-01 23:47:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-04-10 20:46:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-01 23:28:02 +0200"
     },
     "done": true
   },
@@ -1066,6 +1297,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 20:38:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
     },
     "done": true
   },
@@ -1171,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-04-10 20:32:24 +0200"
@@ -1249,6 +1492,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-05-01 22:59:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-10 20:46:31 +0200"
@@ -1282,6 +1537,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-04-12 21:21:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-05-01 22:59:13 +0200"
     },
     "done": true
   },
@@ -1381,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2020-04-09 19:55:34 +0200"
@@ -1402,6 +1669,18 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 20:38:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
     },
     "done": true
   },
@@ -1508,6 +1787,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-01 23:28:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2020-04-12 20:58:51 +0200"
@@ -1516,15 +1813,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-05-01 22:33:02 +0200",
       "minecraft:forest": "2020-04-09 19:14:28 +0200",
       "minecraft:mountains": "2020-04-12 23:56:46 +0200",
       "minecraft:taiga": "2020-04-12 23:53:01 +0200",
+      "minecraft:desert_hills": "2020-05-01 22:50:07 +0200",
+      "minecraft:deep_cold_ocean": "2020-05-01 22:52:17 +0200",
       "minecraft:taiga_hills": "2020-04-12 23:54:33 +0200",
+      "minecraft:desert": "2020-05-01 22:40:18 +0200",
+      "minecraft:deep_frozen_ocean": "2020-05-01 23:04:31 +0200",
+      "minecraft:birch_forest": "2020-05-01 22:29:19 +0200",
+      "minecraft:beach": "2020-05-01 22:32:54 +0200",
       "minecraft:dark_forest": "2020-04-12 23:41:32 +0200",
       "minecraft:river": "2020-04-10 20:59:57 +0200",
       "minecraft:wooded_mountains": "2020-04-12 23:57:48 +0200",
       "minecraft:wooded_hills": "2020-04-10 21:03:01 +0200",
       "minecraft:swamp": "2020-04-12 23:57:21 +0200",
+      "minecraft:savanna": "2020-05-01 23:24:57 +0200",
       "minecraft:plains": "2020-04-09 19:59:15 +0200"
     },
     "done": false
@@ -1571,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-01 23:28:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-04-12 20:59:30 +0200"
@@ -1589,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-05-01 22:54:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-04-09 19:39:08 +0200"
@@ -1598,6 +1915,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-04-10 20:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
     },
     "done": true
   },
@@ -1628,6 +1951,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-04-10 20:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
     },
     "done": true
   },
@@ -1679,6 +2008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-05-01 23:08:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-10 20:49:35 +0200"
@@ -1721,9 +2056,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-05-01 23:26:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2020-05-01 21:13:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-05-01 23:47:05 +0200"
     },
     "done": true
   },
@@ -1736,6 +2089,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-04-12 20:58:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-05-01 22:57:04 +0200"
     },
     "done": true
   },

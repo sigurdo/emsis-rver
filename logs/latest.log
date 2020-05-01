@@ -1,22 +1,29 @@
-[00:13:20] [Server thread/INFO]: Seed: [-6609142218653336283]
-[00:14:16] [Server thread/INFO]: sigi99 tried to swim in lava
-[00:19:32] [Server thread/INFO]: henrim lost connection: Disconnected
-[00:19:39] [Server thread/INFO]: henrim left the game
-[00:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7043ms or 140 ticks behind
-[00:19:39] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[00:19:39] [Server thread/INFO]: sigi99 left the game
-[00:20:02] [Server thread/INFO]: Unknown command
-[00:20:02] [Server thread/INFO]: sstop<--[HERE]
-[00:20:07] [Server thread/INFO]: Stopping the server
-[00:20:07] [Server thread/INFO]: Stopping server
-[00:20:07] [Server thread/INFO]: Saving players
-[00:20:07] [Server thread/INFO]: Saving worlds
-[00:20:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:20:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:20:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[00:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
+[00:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10045ms or 200 ticks behind
+[00:00:53] [Server thread/WARN]: henrim moved wrongly!
+[00:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5106ms or 102 ticks behind
+[00:01:34] [Server thread/WARN]: sigi99 moved too quickly! -10.067663194844954,0.756759288177264,1.0265734933950625
+[00:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6345ms or 126 ticks behind
+[00:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[00:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[00:04:14] [Server thread/INFO]: henrim lost connection: Disconnected
+[00:04:14] [Server thread/INFO]: henrim left the game
+[00:04:16] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
+[00:04:16] [Server thread/INFO]: WaterGrizzly left the game
+[00:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[00:04:36] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[00:04:36] [Server thread/INFO]: sigi99 left the game
+[00:05:12] [Server thread/INFO]: Stopping the server
+[00:05:12] [Server thread/INFO]: Stopping server
+[00:05:13] [Server thread/INFO]: Saving players
+[00:05:13] [Server thread/INFO]: Saving worlds
+[00:05:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:05:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:05:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
