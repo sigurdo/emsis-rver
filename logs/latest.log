@@ -1,29 +1,84 @@
-[00:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[00:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
-[00:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10045ms or 200 ticks behind
-[00:00:53] [Server thread/WARN]: henrim moved wrongly!
-[00:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5106ms or 102 ticks behind
-[00:01:34] [Server thread/WARN]: sigi99 moved too quickly! -10.067663194844954,0.756759288177264,1.0265734933950625
-[00:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6345ms or 126 ticks behind
-[00:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
-[00:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
-[00:04:14] [Server thread/INFO]: henrim lost connection: Disconnected
-[00:04:14] [Server thread/INFO]: henrim left the game
-[00:04:16] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
-[00:04:16] [Server thread/INFO]: WaterGrizzly left the game
-[00:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
-[00:04:36] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[00:04:36] [Server thread/INFO]: sigi99 left the game
-[00:05:12] [Server thread/INFO]: Stopping the server
-[00:05:12] [Server thread/INFO]: Stopping server
-[00:05:13] [Server thread/INFO]: Saving players
-[00:05:13] [Server thread/INFO]: Saving worlds
-[00:05:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:05:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:05:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:45:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:45:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:45:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:45:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:45:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:45:04] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:45:04] [Server thread/INFO]: Loading properties
+[10:45:04] [Server thread/INFO]: Default game type: SURVIVAL
+[10:45:04] [Server thread/INFO]: Generating keypair
+[10:45:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:45:05] [Server thread/INFO]: Using default channel type
+[10:45:06] [Server thread/INFO]: Preparing level "world"
+[10:45:07] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:45:08] [Server thread/INFO]: Loaded 6 recipes
+[10:45:09] [Server thread/INFO]: Loaded 825 advancements
+[10:45:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:14] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:45:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:45:31] [Server thread/INFO]: Time elapsed: 19732 ms
+[10:45:31] [Server thread/INFO]: Done (24.233s)! For help, type "help"
+[10:47:22] [User Authenticator #1/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[10:47:23] [Server thread/INFO]: sigi99[/192.168.1.1:51643] logged in with entity id 202 at (-2718.9023029835653, 63.0, 2662.8416978850364)
+[10:47:23] [Server thread/INFO]: sigi99 joined the game
+[10:47:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13679ms or 273 ticks behind
+[10:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19810ms or 396 ticks behind
+[10:48:40] [Server thread/WARN]: sigi99 moved too quickly! -1.9547188120623105,5.044812420399012,8.602208475879706
+[10:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20632ms or 412 ticks behind
+[10:49:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
+[10:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[10:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10:51:37] [Server thread/WARN]: sigi99 moved too quickly! 10.002875005809074,-2.529223211207764,-0.1982751455957441
+[10:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6091ms or 121 ticks behind
+[10:54:04] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[10:54:04] [Server thread/INFO]: sigi99 left the game
+[10:54:13] [Server thread/INFO]: Stopping the server
+[10:54:13] [Server thread/INFO]: Stopping server
+[10:54:13] [Server thread/INFO]: Saving players
+[10:54:13] [Server thread/INFO]: Saving worlds
+[10:54:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[10:54:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:54:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:54:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:54:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[10:54:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:54:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:54:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:54:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
