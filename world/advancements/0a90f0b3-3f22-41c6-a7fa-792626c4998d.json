@@ -581,6 +581,7 @@
       "minecraft:wither_skeleton": "2020-05-02 22:14:18 +0200",
       "minecraft:husk": "2020-05-01 22:45:52 +0200",
       "minecraft:cave_spider": "2020-04-10 20:29:45 +0200",
+      "minecraft:enderman": "2020-05-07 23:31:49 +0200",
       "minecraft:zombie": "2020-04-12 19:41:07 +0200",
       "minecraft:drowned": "2020-05-01 23:00:39 +0200"
     },
@@ -2311,6 +2312,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-02 21:15:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-05-07 22:20:16 +0200"
     },
     "done": true
   },
