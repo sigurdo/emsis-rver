@@ -1,49 +1,49 @@
-[17:26:22] [main/ERROR]: Failed to load properties from file: server.properties
-[17:26:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:26:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:26:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:26:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:26:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:26:25] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:26:25] [Server thread/INFO]: Loading properties
-[17:26:25] [Server thread/INFO]: Default game type: SURVIVAL
-[17:26:25] [Server thread/INFO]: Generating keypair
-[17:26:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:26:26] [Server thread/INFO]: Using default channel type
-[17:26:27] [Server thread/INFO]: Preparing level "world"
-[17:26:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:26:27] [Server thread/INFO]: Loaded 6 recipes
-[17:26:28] [Server thread/INFO]: Loaded 825 advancements
-[17:26:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:26:29] [Server thread/INFO]: Preparing spawn area: 0%
-[17:26:29] [Server thread/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:26:34] [Server thread/INFO]: Time elapsed: 5951 ms
-[17:26:34] [Server thread/INFO]: Done (7.489s)! For help, type "help"
-[17:27:46] [User Authenticator #1/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
-[17:27:47] [Server thread/INFO]: WaterGrizzly[/127.0.0.1:60622] logged in with entity id 378 at (-266.59553188076075, 90.0, 301.27680212423445)
-[17:27:47] [Server thread/INFO]: WaterGrizzly joined the game
-[17:28:18] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
-[17:28:18] [Server thread/INFO]: WaterGrizzly left the game
-[17:28:37] [Server thread/INFO]: Stopping the server
-[17:28:37] [Server thread/INFO]: Stopping server
-[17:28:37] [Server thread/INFO]: Saving players
-[17:28:37] [Server thread/INFO]: Saving worlds
-[17:28:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:28:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:28:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:28:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:28:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:37:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:37:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:37:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:37:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:37:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:37:07] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:37:07] [Server thread/INFO]: Loading properties
+[17:37:07] [Server thread/INFO]: Default game type: SURVIVAL
+[17:37:07] [Server thread/INFO]: Generating keypair
+[17:37:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:37:07] [Server thread/INFO]: Using default channel type
+[17:37:08] [Server thread/INFO]: Preparing level "world"
+[17:37:08] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:37:09] [Server thread/INFO]: Loaded 6 recipes
+[17:37:09] [Server thread/INFO]: Loaded 825 advancements
+[17:37:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:37:10] [Server thread/INFO]: Preparing spawn area: 0%
+[17:37:10] [Server thread/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:37:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:37:16] [Server thread/INFO]: Preparing spawn area: 24%
+[17:37:16] [Server thread/INFO]: Time elapsed: 6199 ms
+[17:37:16] [Server thread/INFO]: Done (7.878s)! For help, type "help"
+[17:39:00] [User Authenticator #1/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
+[17:39:00] [Server thread/INFO]: WaterGrizzly[/127.0.0.1:60766] logged in with entity id 377 at (-257.5715367955086, 96.0, 304.37916600187947)
+[17:39:01] [Server thread/INFO]: WaterGrizzly joined the game
+[17:39:10] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
+[17:39:10] [Server thread/INFO]: WaterGrizzly left the game
+[17:39:19] [Server thread/INFO]: Stopping the server
+[17:39:19] [Server thread/INFO]: Stopping server
+[17:39:19] [Server thread/INFO]: Saving players
+[17:39:19] [Server thread/INFO]: Saving worlds
+[17:39:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:39:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:39:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
