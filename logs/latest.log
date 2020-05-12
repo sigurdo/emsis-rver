@@ -1,59 +1,45 @@
-[19:48:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:48:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:48:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:48:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:48:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:48:15] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:48:15] [Server thread/INFO]: Loading properties
-[19:48:15] [Server thread/INFO]: Default game type: SURVIVAL
-[19:48:15] [Server thread/INFO]: Generating keypair
-[19:48:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:48:15] [Server thread/INFO]: Using default channel type
-[19:48:16] [Server thread/INFO]: Preparing level "world"
-[19:48:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:48:16] [Server thread/INFO]: Loaded 6 recipes
-[19:48:17] [Server thread/INFO]: Loaded 825 advancements
-[19:48:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:48:18] [Server thread/INFO]: Preparing spawn area: 0%
-[19:48:18] [Server thread/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:48:23] [Server thread/INFO]: Time elapsed: 5959 ms
-[19:48:23] [Server thread/INFO]: Done (7.326s)! For help, type "help"
-[19:48:55] [User Authenticator #1/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
-[19:48:56] [Server thread/INFO]: WaterGrizzly[/127.0.0.1:61463] logged in with entity id 378 at (-257.48548579536777, 96.0, 303.5266727076199)
-[19:48:56] [Server thread/INFO]: WaterGrizzly joined the game
-[20:05:22] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:06:04] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:07:14] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:08:17] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:08:41] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:08:48] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:09:37] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:10:26] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:13:55] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:14:50] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:16:38] [Server thread/WARN]: WaterGrizzly moved wrongly!
-[20:25:53] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
-[20:25:53] [Server thread/INFO]: WaterGrizzly left the game
-[20:26:10] [Server thread/INFO]: Stopping the server
-[20:26:10] [Server thread/INFO]: Stopping server
-[20:26:10] [Server thread/INFO]: Saving players
-[20:26:10] [Server thread/INFO]: Saving worlds
-[20:26:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:26:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:26:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:27] [Server thread/INFO]: <henrim> zzz
+[00:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15326ms or 306 ticks behind
+[00:01:42] [Server thread/INFO]: <sigi99> zZz
+[00:01:42] [Server thread/WARN]: WaterGrizzly moved too quickly! -9.259316227228538,3.750812921255317,0.6554946188296071
+[00:01:42] [Server thread/INFO]: <sigi99> zZz
+[00:01:59] [Server thread/INFO]: <henrim> zzzz
+[00:12:41] [Server thread/INFO]: <henrim> ZZZ
+[00:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13300ms or 266 ticks behind
+[00:13:02] [Server thread/INFO]: Unknown command
+[00:13:02] [Server thread/INFO]: eeee<--[HERE]
+[00:13:15] [Server thread/INFO]: <henrim> e
+[00:13:35] [Server thread/INFO]: <sigi99> zZz
+[00:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-189, y=67, z=249} fk{x=-189, y=67, z=247}
+[00:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-189, y=67, z=249} fk{x=-189, y=67, z=247}
+[00:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-189, y=67, z=249} fk{x=-189, y=67, z=247}
+[00:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-189, y=67, z=249} fk{x=-189, y=67, z=247}
+[00:14:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-187, y=64, z=246} fk{x=-188, y=64, z=246}
+[00:14:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-187, y=64, z=246} fk{x=-188, y=64, z=246}
+[00:14:56] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-192, y=68, z=248} fk{x=-192, y=69, z=248}
+[00:15:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-180, y=67, z=245} fk{x=-180, y=66, z=245}
+[00:15:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-179, y=65, z=245} fk{x=-185, y=64, z=245}
+[00:15:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-187, y=64, z=245} fk{x=-186, y=62, z=247}
+[00:15:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-187, y=64, z=245} fk{x=-186, y=62, z=247}
+[00:15:27] [Server thread/INFO]: sigi99 has made the advancement [Hot Stuff]
+[00:15:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-182, y=62, z=251} fk{x=-180, y=62, z=251}
+[00:16:56] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-187, y=62, z=248} fk{x=-187, y=62, z=247}
+[00:27:51] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[00:27:51] [Server thread/INFO]: sigi99 left the game
+[00:28:10] [Server thread/INFO]: henrim lost connection: Disconnected
+[00:28:10] [Server thread/INFO]: henrim left the game
+[00:28:33] [Server thread/INFO]: Stopping the server
+[00:28:33] [Server thread/INFO]: Stopping server
+[00:28:33] [Server thread/INFO]: Saving players
+[00:28:33] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
+[00:28:33] [Server thread/INFO]: WaterGrizzly left the game
+[00:28:33] [Server thread/INFO]: Saving worlds
+[00:28:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:28:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:28:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
