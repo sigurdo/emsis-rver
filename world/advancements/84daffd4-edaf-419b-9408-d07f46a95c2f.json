@@ -598,6 +598,7 @@
     "criteria": {
       "minecraft:pillager": "2020-04-12 23:35:46 +0200",
       "minecraft:skeleton": "2020-04-10 20:30:40 +0200",
+      "minecraft:ravager": "2020-05-13 22:57:35 +0200",
       "minecraft:spider": "2020-04-12 23:50:28 +0200",
       "minecraft:creeper": "2020-04-12 19:29:26 +0200",
       "minecraft:slime": "2020-05-12 22:49:24 +0200",
@@ -1536,6 +1537,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2020-04-12 21:00:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-05-13 22:57:37 +0200"
     },
     "done": true
   },
