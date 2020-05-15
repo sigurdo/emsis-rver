@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2020-05-16 00:49:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-04-12 18:43:19 +0200"
@@ -1282,6 +1288,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2020-04-12 20:51:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-05-15 22:52:15 +0200"
     },
     "done": true
   },
@@ -2433,6 +2445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2020-05-16 00:49:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-04-10 20:35:08 +0200"
@@ -2640,6 +2658,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-04-10 20:47:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-05-15 22:57:59 +0200"
     },
     "done": true
   },
