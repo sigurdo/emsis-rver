@@ -173,6 +173,14 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-05-18 22:49:20 +0200",
+      "diamond_chestplate": "2020-05-18 22:49:20 +0200",
+      "diamond_boots": "2020-05-18 22:49:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-01 21:31:48 +0200"
@@ -449,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-18 23:28:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-04-12 21:15:11 +0200"
@@ -476,6 +490,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-01 21:31:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-05-18 23:34:13 +0200"
     },
     "done": true
   },
@@ -610,6 +630,7 @@
       "minecraft:pillager": "2020-04-12 22:00:08 +0200",
       "minecraft:blaze": "2020-05-02 22:07:21 +0200",
       "minecraft:skeleton": "2020-04-09 20:01:11 +0200",
+      "minecraft:ghast": "2020-05-18 22:54:39 +0200",
       "minecraft:magma_cube": "2020-04-12 22:47:41 +0200",
       "minecraft:spider": "2020-04-10 20:31:22 +0200",
       "minecraft:creeper": "2020-04-12 22:33:25 +0200",
@@ -619,8 +640,10 @@
       "minecraft:husk": "2020-05-01 22:45:52 +0200",
       "minecraft:cave_spider": "2020-04-10 20:29:45 +0200",
       "minecraft:enderman": "2020-05-07 23:31:49 +0200",
+      "minecraft:silverfish": "2020-05-18 23:34:18 +0200",
       "minecraft:zombie": "2020-04-12 19:41:07 +0200",
-      "minecraft:drowned": "2020-05-01 23:00:39 +0200"
+      "minecraft:drowned": "2020-05-01 23:00:39 +0200",
+      "minecraft:zombie_villager": "2020-05-18 23:38:26 +0200"
     },
     "done": false
   },
@@ -789,6 +812,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-04-12 19:47:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-05-18 23:28:48 +0200"
     },
     "done": true
   },
@@ -1318,6 +1347,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-09 19:56:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-18 23:28:48 +0200"
     },
     "done": true
   },
@@ -1928,6 +1963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-18 23:28:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2020-04-10 20:45:59 +0200"
@@ -2172,6 +2213,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:36:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-18 23:28:48 +0200"
     },
     "done": true
   },
@@ -2520,6 +2567,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2020-05-01 23:46:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-18 23:28:48 +0200"
     },
     "done": true
   },
@@ -2875,6 +2928,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2020-04-12 21:15:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-05-18 23:28:48 +0200"
     },
     "done": true
   },

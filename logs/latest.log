@@ -1,35 +1,34 @@
-[00:00:13] [Server thread/INFO]: henrim was slain by Iron Golem
-[00:11:41] [Server thread/INFO]: <sigi99> zZz
-[00:25:30] [Server thread/INFO]: Villager axw['Villager'/19004, l='world', x=-182.44, y=66.56, z=235.61] died, message: 'Villager was slain by Zombie'
-[01:08:49] [Server thread/INFO]: Villager axw['Farmer'/11, l='world', x=-216.39, y=61.56, z=235.70] died, message: 'Farmer was slain by Zombie'
-[01:09:15] [Server thread/INFO]: Villager axw['Farmer'/15, l='world', x=-215.04, y=61.56, z=224.30] died, message: 'Farmer was slain by Zombie Villager'
-[01:09:27] [Server thread/INFO]: Villager axw['Villager'/12, l='world', x=-217.10, y=62.00, z=224.54] died, message: 'Villager was slain by Zombie'
-[01:09:44] [Server thread/INFO]: Villager axw['Librarian'/17, l='world', x=-215.70, y=61.56, z=224.37] died, message: 'Librarian was slain by Zombie Villager'
-[01:09:55] [Server thread/INFO]: Villager axw['Farmer'/9, l='world', x=-216.91, y=62.00, z=235.40] died, message: 'Farmer was slain by Zombie'
-[01:10:03] [Server thread/INFO]: Villager axw['Cartographer'/14, l='world', x=-214.64, y=61.56, z=224.30] died, message: 'Cartographer was slain by Zombie Villager'
-[01:10:13] [Server thread/INFO]: Villager axw['Farmer'/13, l='world', x=-216.73, y=62.00, z=235.59] died, message: 'Farmer was slain by Zombie Villager'
-[01:10:27] [Server thread/INFO]: Villager axw['Farmer'/8, l='world', x=-215.52, y=61.56, z=235.13] died, message: 'Farmer was slain by Zombie Villager'
-[01:10:32] [Server thread/INFO]: Villager axw['Farmer'/10, l='world', x=-214.65, y=61.56, z=224.39] died, message: 'Farmer was slain by Zombie Villager'
-[01:10:37] [Server thread/INFO]: Villager axw['Cartographer'/16, l='world', x=-217.35, y=62.00, z=224.36] died, message: 'Cartographer was slain by Zombie Villager'
-[01:10:51] [Server thread/INFO]: Villager axw['Cartographer'/7, l='world', x=-217.51, y=62.30, z=224.36] died, message: 'Cartographer was slain by Zombie Villager'
-[01:22:16] [Server thread/INFO]: henrim lost connection: Disconnected
-[01:22:23] [Server thread/INFO]: henrim left the game
-[01:22:23] [Server thread/WARN]: sigi99 moved too quickly! 0.0,10.445000190436836,0.0
-[01:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6694ms or 133 ticks behind
-[01:22:27] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[01:22:27] [Server thread/INFO]: sigi99 left the game
-[01:22:31] [Server thread/INFO]: Unknown command
-[01:22:31] [Server thread/INFO]: estop<--[HERE]
-[01:22:36] [Server thread/INFO]: Stopping the server
-[01:22:36] [Server thread/INFO]: Stopping server
-[01:22:36] [Server thread/INFO]: Saving players
-[01:22:36] [Server thread/INFO]: Saving worlds
-[01:22:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:22:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:22:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:22:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:22:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:22:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:22:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:01] [Server thread/INFO]: <sigi99> -23 55 15
+[00:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[00:04:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[00:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12653ms or 253 ticks behind
+[00:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4884ms or 97 ticks behind
+[00:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
+[00:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5335ms or 106 ticks behind
+[00:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[00:06:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6781ms or 135 ticks behind
+[00:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14722ms or 294 ticks behind
+[00:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[00:09:43] [Server thread/WARN]: sigi99 moved wrongly!
+[00:12:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[00:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18455ms or 369 ticks behind
+[00:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20129ms or 402 ticks behind
+[00:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17555ms or 351 ticks behind
+[00:14:46] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[00:14:46] [Server thread/INFO]: sigi99 left the game
+[00:14:54] [Server thread/INFO]: henrim lost connection: Disconnected
+[00:14:54] [Server thread/INFO]: henrim left the game
+[00:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10086ms or 201 ticks behind
+[00:16:01] [Server thread/INFO]: Stopping the server
+[00:16:01] [Server thread/INFO]: Stopping server
+[00:16:01] [Server thread/INFO]: Saving players
+[00:16:01] [Server thread/INFO]: Saving worlds
+[00:16:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:16:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:16:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:16:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
