@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-05-19 18:52:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2020-05-02 22:26:18 +0200"
@@ -1786,6 +1792,7 @@
       "cooked_porkchop": "2020-05-13 22:38:17 +0200",
       "cooked_mutton": "2020-05-07 21:59:27 +0200",
       "cooked_beef": "2020-05-01 21:04:07 +0200",
+      "apple": "2020-05-19 18:57:13 +0200",
       "potato": "2020-05-02 19:59:45 +0200",
       "pumpkin_pie": "2020-05-02 19:56:50 +0200",
       "golden_apple": "2020-05-03 00:35:04 +0200",
