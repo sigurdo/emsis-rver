@@ -1,20 +1,33 @@
-[00:04:09] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[00:04:09] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[00:16:06] [Server thread/INFO]: sigi99 has reached the goal [Sky's the Limit]
-[00:18:11] [Server thread/INFO]: henrim lost connection: Disconnected
-[00:18:11] [Server thread/INFO]: henrim left the game
-[00:18:15] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[00:18:15] [Server thread/INFO]: sigi99 left the game
-[00:18:20] [Server thread/INFO]: Stopping the server
-[00:18:20] [Server thread/INFO]: Stopping server
-[00:18:20] [Server thread/INFO]: Saving players
-[00:18:20] [Server thread/INFO]: Saving worlds
-[00:18:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:18:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:18:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:18:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17208, l='world', x=291.04, y=1.00, z=3.65]
+[00:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4445ms or 88 ticks behind
+[00:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[00:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5176ms or 103 ticks behind
+[00:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[00:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[00:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[00:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3589ms or 71 ticks behind
+[00:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[00:27:57] [Server thread/WARN]: sigi99 moved too quickly! 9.683455017151289,3.086094079315515,-0.05388645650413082
+[00:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
+[00:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:33:45] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[00:33:45] [Server thread/INFO]: sigi99 left the game
+[00:34:14] [Server thread/INFO]: Stopping the server
+[00:34:14] [Server thread/INFO]: Stopping server
+[00:34:14] [Server thread/INFO]: Saving players
+[00:34:14] [Server thread/INFO]: Saving worlds
+[00:34:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:34:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:34:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
