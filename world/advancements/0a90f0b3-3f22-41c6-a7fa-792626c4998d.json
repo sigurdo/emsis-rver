@@ -684,11 +684,14 @@
       "minecraft:pillager": "2020-04-12 22:00:08 +0200",
       "minecraft:blaze": "2020-05-02 22:07:21 +0200",
       "minecraft:skeleton": "2020-04-09 20:01:11 +0200",
+      "minecraft:ravager": "2020-05-21 21:20:45 +0200",
       "minecraft:ghast": "2020-05-18 22:54:39 +0200",
+      "minecraft:vindicator": "2020-05-21 21:18:24 +0200",
       "minecraft:magma_cube": "2020-04-12 22:47:41 +0200",
       "minecraft:spider": "2020-04-10 20:31:22 +0200",
       "minecraft:creeper": "2020-04-12 22:33:25 +0200",
       "minecraft:slime": "2020-04-13 00:00:29 +0200",
+      "minecraft:evoker": "2020-05-21 21:26:31 +0200",
       "minecraft:witch": "2020-05-12 21:04:28 +0200",
       "minecraft:wither_skeleton": "2020-05-02 22:14:18 +0200",
       "minecraft:husk": "2020-05-01 22:45:52 +0200",
@@ -1946,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-05-21 23:21:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2020-04-12 18:42:26 +0200"
@@ -1989,6 +1998,7 @@
       "sweet_berries": "2020-04-12 23:54:16 +0200",
       "cooked_beef": "2020-04-12 18:48:16 +0200",
       "chorus_fruit": "2020-05-19 22:59:00 +0200",
+      "baked_potato": "2020-05-21 22:54:59 +0200",
       "apple": "2020-04-12 19:29:57 +0200",
       "cooked_cod": "2020-04-12 21:24:05 +0200",
       "bread": "2020-04-12 22:22:29 +0200",
@@ -3050,6 +3060,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-05-02 22:07:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-05-21 21:17:19 +0200"
     },
     "done": true
   },
