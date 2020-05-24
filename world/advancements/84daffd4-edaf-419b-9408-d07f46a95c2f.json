@@ -909,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-24 22:24:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-05-18 23:28:40 +0200"
@@ -1427,19 +1433,24 @@
       "minecraft:mountains": "2020-04-12 23:56:46 +0200",
       "minecraft:taiga": "2020-04-12 23:53:01 +0200",
       "minecraft:desert_hills": "2020-05-01 22:50:07 +0200",
+      "minecraft:giant_tree_taiga": "2020-05-24 21:51:35 +0200",
       "minecraft:deep_cold_ocean": "2020-05-01 22:52:17 +0200",
       "minecraft:taiga_hills": "2020-04-12 23:54:33 +0200",
       "minecraft:desert": "2020-05-01 22:40:18 +0200",
       "minecraft:deep_frozen_ocean": "2020-05-01 23:04:31 +0200",
       "minecraft:birch_forest": "2020-05-01 22:29:19 +0200",
+      "minecraft:warm_ocean": "2020-05-24 21:52:53 +0200",
+      "minecraft:deep_lukewarm_ocean": "2020-05-24 21:53:36 +0200",
       "minecraft:savanna_plateau": "2020-05-02 10:48:46 +0200",
       "minecraft:beach": "2020-05-01 22:32:54 +0200",
       "minecraft:dark_forest": "2020-04-12 23:41:32 +0200",
       "minecraft:river": "2020-04-10 20:59:57 +0200",
+      "minecraft:lukewarm_ocean": "2020-05-24 21:51:48 +0200",
       "minecraft:birch_forest_hills": "2020-05-02 20:14:56 +0200",
       "minecraft:wooded_mountains": "2020-04-12 23:57:48 +0200",
       "minecraft:wooded_hills": "2020-04-10 21:03:01 +0200",
       "minecraft:stone_shore": "2020-05-02 19:54:29 +0200",
+      "minecraft:giant_tree_taiga_hills": "2020-05-24 21:57:59 +0200",
       "minecraft:swamp": "2020-04-12 23:57:21 +0200",
       "minecraft:savanna": "2020-05-01 23:24:57 +0200",
       "minecraft:plains": "2020-04-09 19:59:15 +0200"
@@ -3014,6 +3025,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-05-01 23:47:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-24 22:24:40 +0200"
     },
     "done": true
   },
