@@ -1,222 +1,52 @@
-[20:55:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:55:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:55:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:55:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:55:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:55:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:55:00] [Server thread/INFO]: Loading properties
-[20:55:00] [Server thread/INFO]: Default game type: SURVIVAL
-[20:55:00] [Server thread/INFO]: Generating keypair
-[20:55:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:55:01] [Server thread/INFO]: Using default channel type
-[20:55:03] [Server thread/INFO]: Preparing level "world"
-[20:55:03] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:55:04] [Server thread/INFO]: Loaded 6 recipes
-[20:55:05] [Server thread/INFO]: Loaded 825 advancements
-[20:55:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:55:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:22] [Server-Worker-3/INFO]: Preparing spawn area: 30%
-[20:55:23] [Server thread/INFO]: Time elapsed: 2577 ms
-[20:55:23] [Server thread/INFO]: Done (20.403s)! For help, type "help"
-[20:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[20:57:22] [User Authenticator #1/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[20:57:23] [Server thread/INFO]: sigi99[/84.210.215.92:59938] logged in with entity id 442 at (-220.4415425260329, 76.0, 246.35618517513032)
-[20:57:23] [Server thread/INFO]: sigi99 joined the game
-[20:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
-[20:57:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19637ms or 392 ticks behind
-[20:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8657ms or 173 ticks behind
-[20:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[20:59:38] [Server thread/WARN]: sigi99 moved too quickly! -17.500291999011893,-2.0019147059703926,-0.3137885673950791
-[20:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13619ms or 272 ticks behind
-[21:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14859ms or 297 ticks behind
-[21:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11181ms or 223 ticks behind
-[21:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14248ms or 284 ticks behind
-[21:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6731ms or 134 ticks behind
-[21:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8913ms or 178 ticks behind
-[21:02:18] [Server thread/WARN]: sigi99 moved too quickly! -0.016101383407885805,-1.417762755546832,17.63877270782899
-[21:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18273ms or 365 ticks behind
-[21:02:50] [Server thread/WARN]: sigi99 moved too quickly! 0.737978775040574,-3.1837902069710537,-17.55946534195339
-[21:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18869ms or 377 ticks behind
-[21:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5223ms or 104 ticks behind
-[21:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[21:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6094ms or 121 ticks behind
-[21:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind
-[21:04:52] [Server thread/WARN]: sigi99 moved too quickly! 2489.8384012970537,30.945106652967926,-387.60666008256965
-[21:05:00] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[21:05:00] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[21:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9214ms or 184 ticks behind
-[21:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21:12:28] [Server thread/INFO]: <sigi99> zZz
-[21:43:06] [Server thread/INFO]: <sigi99> zZz
-[21:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[21:46:32] [Server thread/WARN]: sigi99 moved too quickly! 18.331365925402793,-1.6603108454597901,-2.2799917214832135
-[21:46:34] [Server thread/WARN]: sigi99 moved too quickly! 15.914782105815505,8.93346705825256,1.4637093608859146
-[21:46:34] [Server thread/WARN]: sigi99 moved too quickly! 15.211267173067853,8.492263337539342,1.3991148763655161
-[21:46:36] [Server thread/WARN]: sigi99 moved too quickly! 15.639425299461209,9.481631683968317,1.4454406484617977
-[21:46:36] [Server thread/WARN]: sigi99 moved too quickly! 14.933063505402345,9.045173153210825,1.389463620386735
-[21:46:37] [Server thread/WARN]: sigi99 moved too quickly! 15.646787151985393,9.441094071977076,1.5332357951901656
-[21:46:44] [Server thread/WARN]: sigi99 moved too quickly! 16.418687500314434,-3.143584533855261,-5.854197599395988
-[21:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16756ms or 335 ticks behind
-[21:46:51] [Server thread/WARN]: sigi99 moved too quickly! 17.62766533791813,-1.3728072697034293,1.4306333426160975
-[21:47:15] [Server thread/WARN]: sigi99 moved too quickly! 17.151262438720778,-2.976628796113445,2.4614786949816434
-[21:47:23] [Server thread/WARN]: sigi99 moved too quickly! 12.966406246339602,8.88201034043459,9.318406714421343
-[21:47:24] [Server thread/WARN]: sigi99 moved too quickly! 14.00819912652139,7.667518034253646,8.669528797675653
-[21:47:25] [Server thread/WARN]: sigi99 moved too quickly! 14.75674986357103,6.791873689821486,8.004725342501004
-[21:47:28] [Server thread/WARN]: sigi99 moved too quickly! 12.940790226742706,6.4354189397497805,11.050762539740418
-[21:47:29] [Server thread/WARN]: sigi99 moved too quickly! 13.442537715560661,6.377464668346107,10.596121656331519
-[21:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35698ms or 713 ticks behind
-[21:48:02] [Server thread/WARN]: sigi99 moved too quickly! 16.95116809340334,-1.189357387047906,5.625454202905388
-[21:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10464ms or 209 ticks behind
-[21:48:07] [Server thread/WARN]: sigi99 moved too quickly! 16.100410375869842,8.614474009836712,0.9963666604703576
-[21:48:08] [Server thread/WARN]: sigi99 moved too quickly! 15.780432549120633,8.950800439100831,2.204752876103811
-[21:48:08] [Server thread/WARN]: sigi99 moved too quickly! 15.080688304192336,8.527401531050359,2.0613537808587807
-[21:48:09] [Server thread/WARN]: sigi99 moved too quickly! 15.79757833366125,8.615284173696892,3.3891653891433577
-[21:48:10] [Server thread/WARN]: sigi99 moved too quickly! 15.900953427043987,8.567842145415426,2.985982081385714
-[21:48:10] [Server thread/WARN]: sigi99 moved too quickly! 15.918575963434932,8.560178254755385,2.914269481288983
-[21:48:11] [Server thread/WARN]: sigi99 moved too quickly! 15.216496969219406,8.13506103197821,2.786057317088421
-[21:48:11] [Server thread/WARN]: sigi99 moved too quickly! 15.936988315703047,8.53707550015389,2.8713087590968485
-[21:48:12] [Server thread/WARN]: sigi99 moved too quickly! 16.029239586621998,8.418514520084301,2.6674916203761825
-[21:48:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21077ms or 421 ticks behind
-[21:48:56] [Server thread/WARN]: sigi99 moved too quickly! -0.6094065474871968,-1.9727270876825145,-18.045463180823674
-[21:49:01] [Server thread/WARN]: sigi99 moved too quickly! -0.5011180403405433,-3.030671237660485,-17.50473372745779
-[21:49:19] [Server thread/WARN]: sigi99 moved too quickly! -17.320878272887967,5.272779274214699,-1.2492491136253818
-[21:49:21] [Server thread/WARN]: sigi99 moved too quickly! -17.41076505208366,4.794786062530875,-0.143541685831039
-[21:49:23] [Server thread/WARN]: sigi99 moved too quickly! -14.703703673966857,10.607743954328313,0.026990913137751704
-[21:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32654ms or 653 ticks behind
-[21:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8729ms or 174 ticks behind
-[21:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8004ms or 160 ticks behind
-[21:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10540ms or 210 ticks behind
-[21:50:50] [Server thread/WARN]: sigi99 moved too quickly! -17.01892570609914,0.3201783072415907,4.992535693910213
-[21:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14937ms or 298 ticks behind
-[21:51:19] [Server thread/WARN]: sigi99 moved too quickly! 4.842206967816196,-3.0392850009131536,17.294671181844137
-[21:51:23] [Server thread/WARN]: sigi99 moved too quickly! 1.1613814922801566,8.544457432755678,16.105972655774508
-[21:51:24] [Server thread/WARN]: sigi99 moved too quickly! 0.7693916801072191,9.656810942435087,15.452464441224492
-[21:51:24] [Server thread/WARN]: sigi99 moved too quickly! 0.6514831594288353,9.312191578217153,14.72039102738455
-[21:51:26] [Server thread/WARN]: sigi99 moved too quickly! 4.214094617890737,5.9263822352722855,16.68876644929867
-[21:51:27] [Server thread/WARN]: sigi99 moved too quickly! 7.050721936470495,5.0398175618735905,15.9574642796033
-[21:51:28] [Server thread/WARN]: sigi99 moved too quickly! 7.633980723136688,4.742811126088213,15.316636418791632
-[21:51:30] [Server thread/WARN]: sigi99 moved too quickly! 10.223434568636662,4.664080370705733,14.233880418016383
-[21:51:32] [Server thread/WARN]: sigi99 moved too quickly! 11.999328876938876,4.557966231848951,14.01703557095027
-[21:51:33] [Server thread/WARN]: sigi99 moved too quickly! 11.507154780151723,4.328168281275225,13.407418406980696
-[21:51:34] [Server thread/WARN]: sigi99 moved too quickly! 11.508961106775132,4.328168242111445,13.405863749682794
-[21:51:35] [Server thread/WARN]: sigi99 moved too quickly! 11.736691088091106,4.268795971696022,13.107790128835632
-[21:51:37] [Server thread/WARN]: sigi99 moved too quickly! 12.007606234144646,4.126653907877994,13.026629131274944
-[21:51:39] [Server thread/WARN]: sigi99 moved too quickly! 13.180024246663834,0.3814824100668375,12.649803913644973
-[21:51:41] [Server thread/WARN]: sigi99 moved too quickly! 13.261005755202632,0.31398487694471555,12.627127909707042
-[21:51:42] [Server thread/WARN]: sigi99 moved too quickly! 13.021514610815984,1.189871672107671,12.743999430329382
-[21:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38784ms or 775 ticks behind
-[21:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11828ms or 236 ticks behind
-[21:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22472ms or 449 ticks behind
-[21:53:17] [Server thread/WARN]: sigi99 moved too quickly! -0.6309436776841721,7.40144292978178,17.377551007243028
-[21:53:17] [Server thread/WARN]: sigi99 moved too quickly! -0.6019866642297984,7.030721792325039,16.640905824213178
-[21:53:18] [Server thread/WARN]: sigi99 moved too quickly! -0.6776255934771598,7.838362988711623,16.47236588647047
-[21:53:19] [Server thread/WARN]: sigi99 moved too quickly! -0.7721378878632095,9.876950309293733,15.474958896925955
-[21:53:20] [Server thread/WARN]: sigi99 moved too quickly! -0.7721378878632095,9.876950309293733,15.474958896925955
-[21:53:20] [Server thread/WARN]: sigi99 moved too quickly! -0.7381837004736553,9.38845658922402,14.794459128048857
-[21:53:21] [Server thread/WARN]: sigi99 moved too quickly! -0.7825887112414875,9.67370618492194,15.582109339071621
-[21:53:22] [Server thread/WARN]: sigi99 moved too quickly! -0.8399948787416633,8.88636470945032,16.002535248699132
-[21:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16576ms or 331 ticks behind
-[21:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7986ms or 159 ticks behind
-[21:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30771ms or 615 ticks behind
-[21:55:01] [Server thread/WARN]: sigi99 moved too quickly! -16.041458388670662,-1.9085644519257414,6.961360672316232
-[21:55:10] [Server thread/WARN]: sigi99 moved too quickly! -3.2678354115869297,-2.3367069098656543,17.248537715333555
-[21:55:18] [Server thread/WARN]: sigi99 moved too quickly! -0.9891376497885176,-2.63021768754885,17.307201239174674
-[21:55:27] [Server thread/WARN]: sigi99 moved too quickly! -6.54425179794714,10.530725364134469,13.472130416516052
-[21:55:29] [Server thread/WARN]: sigi99 moved too quickly! -3.8640045583142637,8.639095037671197,15.637852835311605
-[21:55:29] [Server thread/WARN]: sigi99 moved too quickly! -3.757883550737347,8.231726953842923,14.9246532666765
-[21:55:30] [Server thread/WARN]: sigi99 moved too quickly! 1.0153911334990653,7.003395923910901,16.765938887290645
-[21:55:31] [Server thread/WARN]: sigi99 moved too quickly! 1.503835105899384,6.641913030487416,16.877963453326856
-[21:55:32] [Server thread/WARN]: sigi99 moved too quickly! 2.2605595078438228,6.454949853121988,16.88583326328171
-[21:55:34] [Server thread/WARN]: sigi99 moved too quickly! 2.706093083762653,6.383930393026816,16.81833404185295
-[21:55:35] [Server thread/WARN]: sigi99 moved too quickly! 3.1411262776982767,6.206597716796779,16.813735770502717
-[21:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37163ms or 743 ticks behind
-[21:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[21:56:04] [Server thread/WARN]: sigi99 moved too quickly! 1.0206166128675704,-2.1049395723361215,-17.48581571206455
-[21:56:17] [Server thread/WARN]: sigi99 moved too quickly! -0.9145826576668696,-1.7982003233035186,-17.3768916637664
-[21:56:21] [Server thread/WARN]: sigi99 moved too quickly! -2.1590813657868466,-3.8517013227081094,-17.30696169318503
-[21:56:28] [Server thread/WARN]: sigi99 moved too quickly! -0.2903191785629815,-2.8589417565895587,-17.912467386948947
-[21:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32537ms or 650 ticks behind
-[21:57:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6860ms or 137 ticks behind
-[21:57:25] [Server thread/WARN]: sigi99 moved too quickly! 7.087979903445785,9.538793161246161,-14.62133302609709
-[21:57:30] [Server thread/WARN]: sigi99 moved too quickly! 2.045914244474943,-3.4727028219939484,-17.631419960128937
-[21:57:36] [Server thread/WARN]: sigi99 moved too quickly! -1.0828347135791319,-3.3256801439859203,-17.25868958232843
-[21:57:41] [Server thread/WARN]: sigi99 moved too quickly! 0.20049451368129212,-4.002649572701557,-17.315626664623096
-[21:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25303ms or 506 ticks behind
-[21:57:53] [Server thread/WARN]: sigi99 moved too quickly! 8.43157457297923,8.207221974014388,-13.96920317807826
-[21:58:05] [Server thread/WARN]: sigi99 moved too quickly! -13.56351190441353,-2.0929367586112164,-11.587033829558095
-[21:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14776ms or 295 ticks behind
-[21:58:34] [Server thread/WARN]: sigi99 moved too quickly! 2.8327417380769475,7.036703181285603,16.416727001763547
-[21:58:35] [Server thread/WARN]: sigi99 moved too quickly! 1.9953188851120558,7.605443803131124,16.013328649706068
-[21:58:35] [Server thread/WARN]: sigi99 moved too quickly! 1.3765376908909275,7.250275417103239,15.767353098454464
-[21:58:37] [Server thread/WARN]: sigi99 moved too quickly! 1.3288204423868137,6.643464369763052,16.889588965804023
-[21:58:38] [Server thread/WARN]: sigi99 moved too quickly! 1.2931490140534834,6.498776752649846,16.966104482010337
-[21:58:40] [Server thread/WARN]: sigi99 moved too quickly! -1.2262059236165896,6.426318452743047,16.898578380577646
-[21:58:41] [Server thread/WARN]: sigi99 moved too quickly! -5.402075627304953,4.305700663041023,16.81579189477543
-[21:58:42] [Server thread/WARN]: sigi99 moved too quickly! -8.10955825960366,4.107987381041454,15.412424711122753
-[21:58:43] [Server thread/WARN]: sigi99 moved too quickly! -11.644295283258714,2.490540032375918,13.603426437752887
-[21:58:44] [Server thread/WARN]: sigi99 moved too quickly! -11.907303910606231,0.4862009263198672,13.032717554757369
-[21:58:47] [Server thread/WARN]: sigi99 moved too quickly! -15.983032980973348,0.4864167408135245,8.801005039470397
-[21:58:49] [Server thread/WARN]: sigi99 moved too quickly! -14.903433655824244,-2.5591700283781336,9.792233295288725
-[21:58:53] [Server thread/WARN]: sigi99 moved too quickly! 10.950893109755498,-5.881703963776545,12.498470098355256
-[21:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31104ms or 622 ticks behind
-[21:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9200ms or 184 ticks behind
-[21:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11709ms or 234 ticks behind
-[22:00:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7573ms or 151 ticks behind
-[22:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8388ms or 167 ticks behind
-[22:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8249ms or 164 ticks behind
-[22:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9147ms or 182 ticks behind
-[22:01:34] [Server thread/WARN]: sigi99 moved too quickly! -3.2330922065973127,-2.2647068440574287,-17.697116726556487
-[22:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10823ms or 216 ticks behind
-[22:03:34] [Server thread/INFO]: <sigi99> zZz
-[22:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[22:15:05] [Server thread/INFO]: <sigi99> zZz
-[22:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[22:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[22:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[22:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
-[22:26:59] [Server thread/INFO]: <sigi99> zZz
-[22:27:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=67, z=242} fk{x=-174, y=66, z=243}
-[22:27:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=67, z=242} fk{x=-174, y=66, z=243}
-[22:27:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=67, z=242} fk{x=-174, y=66, z=243}
-[22:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[22:31:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-165, y=67, z=240} fk{x=-166, y=67, z=239}
-[22:31:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-165, y=67, z=240} fk{x=-166, y=67, z=239}
-[22:31:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-165, y=67, z=240} fk{x=-166, y=67, z=239}
-[22:31:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-165, y=67, z=240} fk{x=-166, y=67, z=239}
-[22:31:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-165, y=67, z=240} fk{x=-166, y=67, z=239}
-[22:31:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-165, y=67, z=240} fk{x=-166, y=67, z=239}
-[22:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[22:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
-[22:39:04] [Server thread/WARN]: sigi99 moved too quickly! 2489.106629304967,30.945106652967926,-387.32777122214264
-[22:39:04] [Server thread/WARN]: sigi99 moved too quickly! 2489.106629304967,30.945106652967926,-387.32777122214264
-[22:39:26] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[22:39:26] [Server thread/INFO]: sigi99 left the game
-[22:41:00] [User Authenticator #2/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[22:41:00] [Server thread/INFO]: sigi99[/84.210.215.92:60452] logged in with entity id 37360 at (112.2093938475551, 2.0, 3.316303815513749)
-[22:41:00] [Server thread/INFO]: sigi99 joined the game
-[23:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[23:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[23:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
-[23:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[23:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[23:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[23:12:57] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[23:12:57] [Server thread/INFO]: sigi99 left the game
-[23:13:02] [Server thread/INFO]: Stopping the server
-[23:13:02] [Server thread/INFO]: Stopping server
-[23:13:02] [Server thread/INFO]: Saving players
-[23:13:02] [Server thread/INFO]: Saving worlds
-[23:13:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:13:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:13:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:13:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:13:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:13:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:13:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:13:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:13:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:17:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:17:14] [Server thread/INFO]: Loading properties
+[20:17:14] [Server thread/INFO]: Default game type: SURVIVAL
+[20:17:14] [Server thread/INFO]: Generating keypair
+[20:17:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:17:15] [Server thread/INFO]: Using default channel type
+[20:17:17] [Server thread/INFO]: Preparing level "world"
+[20:17:17] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:17:18] [Server thread/INFO]: Loaded 6 recipes
+[20:17:19] [Server thread/INFO]: Loaded 825 advancements
+[20:17:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:17:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:37] [Server thread/INFO]: Preparing spawn area: 45%
+[20:17:37] [Server thread/INFO]: Time elapsed: 3020 ms
+[20:17:37] [Server thread/INFO]: Done (20.693s)! For help, type "help"
+[20:17:58] [User Authenticator #1/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[20:17:58] [Server thread/INFO]: sigi99[/127.0.0.1:51054] logged in with entity id 318 at (-2389.8486735036963, 17.0, 369.32943532304256)
+[20:17:58] [Server thread/INFO]: sigi99 joined the game
+[20:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[20:18:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14805ms or 296 ticks behind
+[20:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[20:19:08] [Server thread/WARN]: sigi99 moved too quickly! 2489.847486955187,31.1875,-386.36526127117526
+[20:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[20:19:12] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:19:12] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:19:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8153ms or 163 ticks behind
+[20:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:23:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[20:23:25] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[20:23:25] [Server thread/INFO]: sigi99 left the game
+[20:23:36] [Server thread/INFO]: Stopping the server
+[20:23:36] [Server thread/INFO]: Stopping server
+[20:23:36] [Server thread/INFO]: Saving players
+[20:23:36] [Server thread/INFO]: Saving worlds
+[20:23:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:23:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:23:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:23:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:23:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
