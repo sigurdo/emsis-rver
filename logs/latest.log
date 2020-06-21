@@ -1,38 +1,84 @@
-[22:59:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:59:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:59:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:59:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:59:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[22:59:43] [Server thread/INFO]: Loading properties
-[22:59:43] [Server thread/INFO]: Default game type: SURVIVAL
-[22:59:43] [Server thread/INFO]: Generating keypair
-[22:59:44] [Server thread/INFO]: Starting Minecraft server on 10.0.0.19:25565
-[22:59:44] [Server thread/INFO]: Using default channel type
-[22:59:45] [Server thread/INFO]: Preparing level "world"
-[22:59:45] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:59:46] [Server thread/INFO]: Loaded 6 recipes
-[22:59:46] [Server thread/INFO]: Loaded 825 advancements
-[22:59:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:59:48] [Server thread/INFO]: Preparing spawn area: 0%
-[22:59:48] [Server thread/INFO]: Preparing spawn area: 0%
-[22:59:48] [Server thread/INFO]: Preparing spawn area: 0%
-[22:59:48] [Server thread/INFO]: Time elapsed: 1573 ms
-[22:59:48] [Server thread/INFO]: Done (3.373s)! For help, type "help"
-[22:59:57] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[22:59:57] [Server thread/INFO]: henrim[/31.45.107.233:54779] logged in with entity id 470 at (-215.25720045689405, 74.0, 243.22534991540746)
-[22:59:57] [Server thread/INFO]: henrim joined the game
-[23:54:16] [Server thread/INFO]: henrim lost connection: Disconnected
-[23:54:16] [Server thread/INFO]: henrim left the game
-[23:54:20] [Server thread/INFO]: Stopping the server
-[23:54:20] [Server thread/INFO]: Stopping server
-[23:54:20] [Server thread/INFO]: Saving players
-[23:54:20] [Server thread/INFO]: Saving worlds
-[23:54:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:54:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:54:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:54:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:42:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:42:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:42:39] [Server thread/INFO]: Loading properties
+[20:42:39] [Server thread/INFO]: Default game type: SURVIVAL
+[20:42:39] [Server thread/INFO]: Generating keypair
+[20:42:39] [Server thread/INFO]: Starting Minecraft server on 10.0.0.19:25565
+[20:42:39] [Server thread/INFO]: Using default channel type
+[20:42:41] [Server thread/INFO]: Preparing level "world"
+[20:42:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:42:42] [Server thread/INFO]: Loaded 6 recipes
+[20:42:42] [Server thread/INFO]: Loaded 825 advancements
+[20:42:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:42:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:42:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:42:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:42:45] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:42:45] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:42:45] [Server thread/INFO]: Preparing spawn area: 76%
+[20:42:46] [Server thread/INFO]: Time elapsed: 2760 ms
+[20:42:46] [Server thread/INFO]: Done (4.466s)! For help, type "help"
+[20:43:25] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[20:43:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@765dad26[id=0a90f0b3-3f22-41c6-a7fa-792626c4998d,name=henrim,properties={textures=[com.mojang.authlib.properties.Property@7fdef05c]},legacy=false] (/31.45.108.124:51645): Took too long to log in
+[20:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4987ms or 99 ticks behind
+[20:43:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@765dad26[id=0a90f0b3-3f22-41c6-a7fa-792626c4998d,name=henrim,properties={textures=[com.mojang.authlib.properties.Property@7fdef05c]},legacy=false] (/31.45.108.124:51645) lost connection: Disconnected
+[20:44:05] [User Authenticator #2/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[20:44:05] [Server thread/INFO]: henrim[/31.45.108.124:51658] logged in with entity id 456 at (-209.5511784238959, 68.0, 239.7890954744843)
+[20:44:05] [Server thread/INFO]: henrim joined the game
+[20:46:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-147, y=62, z=196} fk{x=-146, y=63, z=195}
+[20:46:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-147, y=62, z=196} fk{x=-146, y=63, z=195}
+[20:46:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-147, y=62, z=196} fk{x=-146, y=63, z=195}
+[20:46:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-147, y=62, z=196} fk{x=-146, y=63, z=195}
+[20:46:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-147, y=62, z=196} fk{x=-146, y=63, z=195}
+[20:46:48] [User Authenticator #3/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[20:46:48] [Server thread/INFO]: sigi99[/81.191.238.173:50873] logged in with entity id 1162 at (-207.53780840305402, 68.0, 249.04067999736603)
+[20:46:48] [Server thread/INFO]: sigi99 joined the game
+[20:51:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-222, y=66, z=240} fk{x=-222, y=66, z=241}
+[20:51:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-222, y=66, z=240} fk{x=-222, y=66, z=241}
+[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-222, y=66, z=240} fk{x=-222, y=66, z=241}
+[20:52:18] [Server thread/INFO]: <henrim> zzz
+[20:52:29] [Server thread/INFO]: <sigi99> zZz
+[21:04:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-209, y=63, z=250} fk{x=-212, y=66, z=250}
+[21:04:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-209, y=63, z=250} fk{x=-212, y=66, z=250}
+[21:04:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-209, y=63, z=250} fk{x=-212, y=66, z=250}
+[21:04:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-209, y=63, z=250} fk{x=-212, y=66, z=250}
+[21:05:59] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-208, y=61, z=249} fk{x=-205, y=61, z=248}
+[21:06:03] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-209, y=61, z=248} fk{x=-209, y=60, z=247}
+[21:26:47] [Server thread/INFO]: <henrim> zzz
+[21:26:49] [Server thread/INFO]: <sigi99> zZz
+[21:27:51] [Server thread/WARN]: henrim moved too quickly! -16.06101959909222,4.6660949727789784,7.0441016812850705
+[21:29:27] [Server thread/WARN]: Fetching packet for removed entity awb['Wheat Seeds'/10626, l='world', x=-155.92, y=63.94, z=224.00]
+[21:32:08] [Server thread/WARN]: Fetching packet for removed entity awb['Stone'/11555, l='world', x=-203.99, y=72.05, z=253.13]
+[21:37:38] [Server thread/INFO]: <henrim> w
+[21:37:42] [Server thread/INFO]: <sigi99> zZz
+[22:48:16] [Server thread/INFO]: <henrim> zzz
+[22:48:19] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[22:48:19] [Server thread/INFO]: sigi99 left the game
+[22:48:23] [User Authenticator #4/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[22:48:24] [Server thread/INFO]: sigi99[/81.191.238.173:51675] logged in with entity id 21284 at (-204.15293012242748, 63.0625, 232.30000001192093)
+[22:48:24] [Server thread/INFO]: sigi99 joined the game
+[22:59:00] [Server thread/INFO]: <henrim> zzzz+
+[22:59:04] [Server thread/INFO]: <sigi99> zZz
+[23:10:49] [Server thread/INFO]: <sigi99> zZz
+[23:20:28] [Server thread/INFO]: henrim lost connection: Disconnected
+[23:20:28] [Server thread/INFO]: henrim left the game
+[23:20:30] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[23:20:30] [Server thread/INFO]: sigi99 left the game
+[23:20:35] [Server thread/INFO]: Unknown command
+[23:20:35] [Server thread/INFO]: estop<--[HERE]
+[23:20:39] [Server thread/INFO]: Stopping the server
+[23:20:39] [Server thread/INFO]: Stopping server
+[23:20:39] [Server thread/INFO]: Saving players
+[23:20:39] [Server thread/INFO]: Saving worlds
+[23:20:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:20:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:20:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
