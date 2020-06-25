@@ -344,12 +344,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_logs": "2020-05-01 22:57:11 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2020-06-08 22:52:29 +0200"
@@ -506,12 +500,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_the_recipe": "2020-04-12 23:28:59 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-03 00:17:46 +0200"
@@ -609,6 +597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-06-25 22:44:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-04-12 18:49:37 +0200"
@@ -624,12 +618,6 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-03 00:17:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2020-05-24 11:34:12 +0200"
     },
     "done": true
   },
@@ -784,6 +772,7 @@
       "minecraft:husk": "2020-05-01 23:16:05 +0200",
       "minecraft:shulker": "2020-05-19 22:51:54 +0200",
       "minecraft:cave_spider": "2020-05-07 22:48:22 +0200",
+      "minecraft:piglin": "2020-06-25 22:01:31 +0200",
       "minecraft:enderman": "2020-04-12 23:47:48 +0200",
       "minecraft:silverfish": "2020-05-18 23:35:43 +0200",
       "minecraft:zombie": "2020-04-10 20:30:50 +0200",
@@ -924,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-06-25 21:52:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2020-04-12 23:35:46 +0200"
@@ -945,6 +940,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2020-04-12 22:11:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-06-25 22:24:46 +0200"
     },
     "done": true
   },
@@ -1244,7 +1245,7 @@
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_log": "2020-04-09 19:56:27 +0200"
+      "has_logs": "2020-06-25 22:24:05 +0200"
     },
     "done": true
   },
@@ -1344,12 +1345,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2020-04-09 19:58:02 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-10 20:57:15 +0200"
@@ -1359,12 +1354,6 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-04-10 20:33:21 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2020-04-12 19:44:29 +0200"
     },
     "done": true
   },
@@ -1461,6 +1450,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2020-06-07 00:05:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-06-25 21:52:41 +0200"
     },
     "done": true
   },
@@ -1658,6 +1653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-06-25 21:52:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-04-10 20:40:19 +0200"
@@ -1772,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-06-25 21:52:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-10 20:49:35 +0200"
@@ -1813,6 +1820,13 @@
       "has_bamboo": "2020-05-02 22:34:04 +0200"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-06-25 22:00:28 +0200",
+      "minecraft:nether_wastes": "2020-06-25 22:04:34 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
@@ -2534,6 +2548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2020-06-25 22:47:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2020-04-09 19:55:43 +0200"
@@ -3050,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-06-25 21:52:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-04-12 19:44:29 +0200"
@@ -3350,6 +3376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-06-25 22:02:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-04-12 21:02:36 +0200"
@@ -3443,6 +3475,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 20:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2020-04-12 23:28:59 +0200"
     },
     "done": true
   },
@@ -3664,6 +3702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-06-25 22:02:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-03 00:17:46 +0200"
@@ -3685,6 +3729,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-04-10 21:03:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-06-25 22:44:41 +0200"
     },
     "done": true
   },
@@ -3730,5 +3780,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2567
 }
