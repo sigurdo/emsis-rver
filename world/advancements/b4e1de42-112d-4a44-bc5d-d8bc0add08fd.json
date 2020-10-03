@@ -368,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-10-03 20:15:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-05-01 21:03:15 +0200"
@@ -707,15 +713,18 @@
       "minecraft:pillager": "2020-05-13 22:54:14 +0200",
       "minecraft:skeleton": "2020-05-01 22:15:40 +0200",
       "minecraft:ravager": "2020-06-10 21:06:23 +0200",
+      "minecraft:hoglin": "2020-10-03 20:41:24 +0200",
       "minecraft:vindicator": "2020-05-13 22:56:18 +0200",
       "minecraft:spider": "2020-05-01 22:20:48 +0200",
       "minecraft:creeper": "2020-05-15 19:38:24 +0200",
       "minecraft:evoker": "2020-06-10 21:10:08 +0200",
       "minecraft:phantom": "2020-05-02 00:03:14 +0200",
+      "minecraft:zombified_piglin": "2020-10-03 20:15:14 +0200",
       "minecraft:witch": "2020-05-23 00:33:07 +0200",
       "minecraft:wither_skeleton": "2020-05-13 22:28:43 +0200",
       "minecraft:husk": "2020-05-01 22:47:17 +0200",
       "minecraft:cave_spider": "2020-05-19 21:30:02 +0200",
+      "minecraft:piglin": "2020-10-03 20:18:21 +0200",
       "minecraft:enderman": "2020-05-07 22:35:52 +0200",
       "minecraft:zombie": "2020-05-01 22:18:15 +0200",
       "minecraft:drowned": "2020-05-01 22:58:53 +0200"
@@ -824,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-10-03 21:30:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2020-05-13 22:54:14 +0200"
@@ -884,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-10-03 19:38:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2020-06-10 21:26:30 +0200"
@@ -893,6 +914,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-05-19 22:10:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-10-03 21:27:17 +0200"
     },
     "done": true
   },
@@ -911,6 +938,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2020-05-01 23:11:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-10-03 20:41:31 +0200"
     },
     "done": true
   },
@@ -941,6 +974,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2020-05-02 21:03:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-10-03 20:41:31 +0200"
     },
     "done": true
   },
@@ -1154,6 +1193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-10-03 21:12:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-05-01 23:00:06 +0200"
@@ -1268,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-10-03 20:41:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-05-01 21:12:46 +0200"
@@ -1283,6 +1334,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-05-01 23:46:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-10-03 21:30:27 +0200"
     },
     "done": true
   },
@@ -1596,6 +1653,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-05-02 22:26:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-10-03 19:38:28 +0200"
     },
     "done": true
   },
@@ -2003,6 +2066,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-10-02 19:49:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-10-03 19:38:28 +0200"
     },
     "done": true
   },
@@ -2434,6 +2503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-10-03 21:12:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-07 22:29:31 +0200"
@@ -2545,6 +2620,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2020-05-13 00:16:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-10-03 20:15:14 +0200"
     },
     "done": true
   },
@@ -2689,6 +2770,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-05-02 20:40:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-10-03 21:30:27 +0200"
     },
     "done": true
   },
