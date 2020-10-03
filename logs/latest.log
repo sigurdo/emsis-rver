@@ -1,54 +1,38 @@
-[21:59:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[21:59:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:59:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:59:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:59:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:59:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:59:51] [main/INFO]: Reloading ResourceManager: Default
-[21:59:51] [Worker-Main-14/INFO]: Loaded 7 recipes
-[21:59:52] [Worker-Main-14/INFO]: Loaded 927 advancements
-[21:59:52] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[21:59:52] [Server thread/INFO]: Loading properties
-[21:59:52] [Server thread/INFO]: Default game type: SURVIVAL
-[21:59:52] [Server thread/INFO]: Generating keypair
-[21:59:53] [Server thread/INFO]: Starting Minecraft server on 10.0.0.19:25565
-[21:59:53] [Server thread/INFO]: Using default channel type
-[21:59:54] [Server thread/INFO]: Preparing level "world"
-[21:59:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:59:55] [Server thread/INFO]: Preparing spawn area: 0%
-[21:59:55] [Server thread/INFO]: Preparing spawn area: 0%
-[21:59:55] [Server thread/INFO]: Preparing spawn area: 0%
-[21:59:56] [Server thread/INFO]: Preparing spawn area: 47%
-[21:59:56] [Server thread/INFO]: Time elapsed: 2462 ms
-[21:59:56] [Server thread/INFO]: Done (2.546s)! For help, type "help"
-[22:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:00:05] [User Authenticator #2/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[22:00:05] [User Authenticator #1/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[22:00:05] [Server thread/INFO]: henrim[/31.45.108.124:55860] logged in with entity id 433 at (-226.31678199355724, 76.0, 245.93649874674463)
-[22:00:05] [Server thread/INFO]: henrim joined the game
-[22:00:06] [Server thread/INFO]: sigi99[/81.191.238.173:53297] logged in with entity id 434 at (-225.13999192637434, 76.0, 249.13409173813267)
-[22:00:06] [Server thread/INFO]: sigi99 joined the game
-[22:05:12] [Server thread/INFO]: henrim burned to death
-[22:11:05] [Server thread/WARN]: henrim moved too quickly! 18.20083084322934,-1.4338136706835343,-0.5531253926905322
-[22:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[22:22:21] [Server thread/INFO]: <sigi99> zZz
-[22:32:55] [Server thread/INFO]: <henrim> zzzz
-[22:33:12] [Server thread/INFO]: <sigi99> zZz
-[22:49:53] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[22:49:53] [Server thread/INFO]: sigi99 left the game
-[23:03:42] [Server thread/INFO]: Villager bdp['Villager'/64, l='ServerLevel[world]', x=-187.03, y=63.06, z=239.50] died, message: 'Villager was slain by Zombie'
-[23:07:51] [Server thread/INFO]: henrim lost connection: Disconnected
-[23:07:51] [Server thread/INFO]: henrim left the game
-[23:07:59] [Server thread/INFO]: Stopping the server
-[23:07:59] [Server thread/INFO]: Stopping server
-[23:07:59] [Server thread/INFO]: Saving players
-[23:07:59] [Server thread/INFO]: Saving worlds
-[23:07:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:08:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:08:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:08:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:08:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:08:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:08:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:08:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:08:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:28:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[23:28:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:28:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:28:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:28:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:28:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:28:18] [main/INFO]: Reloading ResourceManager: Default
+[23:28:19] [Worker-Main-12/INFO]: Loaded 7 recipes
+[23:28:19] [Worker-Main-12/INFO]: Loaded 927 advancements
+[23:28:20] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[23:28:20] [Server thread/INFO]: Loading properties
+[23:28:20] [Server thread/INFO]: Default game type: SURVIVAL
+[23:28:20] [Server thread/INFO]: Generating keypair
+[23:28:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:28:20] [Server thread/INFO]: Using default channel type
+[23:28:21] [Server thread/INFO]: Preparing level "world"
+[23:28:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:28:22] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:22] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:22] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:22] [Server thread/INFO]: Time elapsed: 1573 ms
+[23:28:22] [Server thread/INFO]: Done (1.670s)! For help, type "help"
+[23:28:29] [User Authenticator #1/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[23:28:30] [Server thread/INFO]: sigi99[/192.168.1.1:58568] logged in with entity id 406 at (-225.41740877198438, 78.0, 240.69999998807907)
+[23:28:30] [Server thread/INFO]: sigi99 joined the game
+[23:28:36] [User Authenticator #2/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
+[23:28:37] [Server thread/INFO]: WaterGrizzly[/178.74.11.249:51348] logged in with entity id 757 at (-141.66003701896705, 46.0, 163.5264230772169)
+[23:28:37] [Server thread/INFO]: WaterGrizzly joined the game
+[23:33:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
+[23:34:38] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
+[23:34:38] [Server thread/INFO]: WaterGrizzly left the game
+[23:34:59] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[23:34:59] [Server thread/INFO]: sigi99 left the game
+[23:35:05] [User Authenticator #3/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[23:35:05] [Server thread/INFO]: sigi99[/127.0.0.1:58602] logged in with entity id 6043 at (-16.441687648193202, 59.0, 35.89933312340417)
+[23:35:05] [Server thread/INFO]: sigi99 joined the game
+[23:35:20] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[23:35:20] [Server thread/INFO]: sigi99 left the game
