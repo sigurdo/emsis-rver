@@ -1,146 +1,40 @@
-[19:08:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:08:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:08:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:08:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:08:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:08:55] [main/INFO]: Reloading ResourceManager: Default
-[19:08:55] [Worker-Main-14/INFO]: Loaded 7 recipes
-[19:08:56] [Worker-Main-14/INFO]: Loaded 927 advancements
-[19:08:57] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[19:08:57] [Server thread/INFO]: Loading properties
-[19:08:57] [Server thread/INFO]: Default game type: SURVIVAL
-[19:08:57] [Server thread/INFO]: Generating keypair
-[19:08:57] [Server thread/INFO]: Starting Minecraft server on 10.0.0.19:25565
-[19:08:58] [Server thread/INFO]: Using default channel type
-[19:09:02] [Server thread/INFO]: Preparing level "world"
-[19:09:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:09:04] [Server thread/INFO]: Preparing spawn area: 0%
-[19:09:04] [Server thread/INFO]: Preparing spawn area: 0%
-[19:09:04] [Server thread/INFO]: Preparing spawn area: 0%
-[19:09:04] [Server thread/INFO]: Preparing spawn area: 0%
-[19:09:05] [Server thread/INFO]: Preparing spawn area: 47%
-[19:09:06] [Server thread/INFO]: Time elapsed: 3029 ms
-[19:09:06] [Server thread/INFO]: Done (3.227s)! For help, type "help"
-[19:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[19:10:00] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[19:10:00] [Server thread/INFO]: henrim[/31.45.103.233:50915] logged in with entity id 554 at (-198.66883577239122, 73.0, 237.84815327869984)
-[19:10:00] [Server thread/INFO]: henrim joined the game
-[19:17:31] [Server thread/INFO]: <henrim> zz
-[19:18:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/2364, l='ServerLevel[world]', x=-92.47, y=64.00, z=197.45]
-[19:28:15] [Server thread/INFO]: <henrim> zzz
-[19:28:49] [Server thread/INFO]: henrim lost connection: Disconnected
-[19:28:49] [Server thread/INFO]: henrim left the game
-[19:35:30] [User Authenticator #2/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[19:35:31] [Server thread/INFO]: henrim[/31.45.103.233:51461] logged in with entity id 3648 at (-221.52715592558147, 76.5625, 248.2858990865493)
-[19:35:31] [Server thread/INFO]: henrim joined the game
-[19:38:53] [User Authenticator #3/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[19:38:53] [Server thread/INFO]: sigi99[/84.202.68.78:52524] logged in with entity id 4472 at (-219.8136041964198, 76.0, 244.8121997842577)
-[19:38:53] [Server thread/INFO]: sigi99 joined the game
-[19:44:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@80b2a23[id=<null>,name=WaterGrizzly,properties={},legacy=false] (/178.74.11.249:57575) lost connection: Disconnected
-[19:44:37] [User Authenticator #4/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
-[19:44:37] [Server thread/INFO]: WaterGrizzly[/178.74.11.249:57577] logged in with entity id 5263 at (-441.76249998807907, 69.0, 429.40684124056895)
-[19:44:37] [Server thread/INFO]: WaterGrizzly joined the game
-[19:45:34] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
-[19:45:34] [Server thread/INFO]: WaterGrizzly left the game
-[19:45:36] [User Authenticator #5/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
-[19:45:37] [Server thread/INFO]: WaterGrizzly[/178.74.11.249:57580] logged in with entity id 5791 at (-420.565325579262, 63.0, 414.53023104781437)
-[19:45:37] [Server thread/INFO]: WaterGrizzly joined the game
-[19:48:27] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:48:27] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[20:21:59] [Server thread/INFO]: <henrim> zzzzz
-[20:22:08] [Server thread/INFO]: <sigi99> zZz
-[20:22:11] [Server thread/INFO]: <henrim> ZzZz
-[20:27:34] [Server thread/WARN]: sigi99 moved wrongly!
-[20:30:50] [Server thread/WARN]: Fetching packet for removed entity bcs['Ender Pearl'/18921, l='ServerLevel[world]', x=290.23, y=1.45, z=3.99]
-[20:30:50] [Server thread/WARN]: Fetching packet for removed entity aqd['Experience Orb'/18895, l='ServerLevel[world]', x=289.74, y=1.38, z=2.57]
-[20:32:01] [Server thread/INFO]: henrim was slain by Enderman
-[20:41:42] [Server thread/INFO]: <sigi99> zZz
-[20:41:43] [Server thread/INFO]: <henrim> zzzzzzz
-[20:42:31] [Server thread/WARN]: sigi99 moved too quickly! 6.6398648599794114,-1.1201987132308489,17.055847351915872
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Properties:{facing:"north"},Name:"minecraft:jack_o_lantern"},weight:1}],type:"minecraft:weighted_state_provider"}}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Properties:{facing:"north"},Name:"minecraft:jack_o_lantern"},weight:1}],type:"minecraft:weighted_state_provider"}}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Properties:{facing:"north"},Name:"minecraft:jack_o_lantern"},weight:1}],type:"minecraft:weighted_state_provider"}}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:7,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:1,height_rand_a:4,trunk_top_offset:1,max_water_depth:0,foliage_placer:{type:"minecraft:pine_foliage_placer",radius:1,radius_random:0},ignore_vines:1b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:3,trunk_height:-1,base_height:7,trunk_top_offset_random:0,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:0,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:1,height_rand_a:4,trunk_top_offset:1,max_water_depth:0,foliage_placer:{type:"minecraft:pine_foliage_placer",radius:1,radius_random:0},ignore_vines:1b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:-1,trunk_height:1,base_height:6,trunk_top_offset_random:2,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:1,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:3,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:spruce_foliage_placer",radius:2,radius_random:1},ignore_vines:1b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:-1,trunk_height:1,base_height:6,trunk_top_offset_random:2,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:1,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:3,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:spruce_foliage_placer",radius:2,radius_random:1},ignore_vines:1b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:32,yspread:3,xspread:7,need_water:0b,zspread:7,blacklist:[],project:1b,block_placer:{type:"minecraft:simple_block_placer"},state_provider:{entries:[{data:{Name:"minecraft:grass"},weight:1},{data:{Name:"minecraft:fern"},weight:4}],type:"minecraft:weighted_state_provider"},whitelist:[],can_replace:0b}}]
-[20:46:04] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{height_rand_b:0,foliage_height:-1,trunk_height:1,base_height:6,trunk_top_offset_random:2,leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:spruce_leaves"},type:"minecraft:simple_state_provider"},trunk_height_random:1,trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:spruce_log"},type:"minecraft:simple_state_provider"},decorators:[],foliage_height_random:0,height_rand_a:3,trunk_top_offset:0,max_water_depth:0,foliage_placer:{type:"minecraft:spruce_foliage_placer",radius:2,radius_random:1},ignore_vines:1b}}]
-[20:47:32] [Server thread/INFO]: <henrim> 101, 1190
-[20:52:49] [Server thread/INFO]: Villager bfg['Fletcher'/16025, l='ServerLevel[world]', x=-137.70, y=67.00, z=235.30] died, message: 'Fletcher was slain by Zombie'
-[21:07:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/42760, l='ServerLevel[world]', x=-92.03, y=64.00, z=204.42]
-[21:07:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/42761, l='ServerLevel[world]', x=-91.31, y=64.00, z=213.06]
-[21:15:29] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/44248, l='ServerLevel[world]', x=-92.22, y=64.00, z=192.89]
-[21:15:29] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/44248, l='ServerLevel[world]', x=-92.22, y=64.00, z=192.89]
-[21:17:30] [Server thread/INFO]: Villager bfg['Weaponsmith'/16123, l='ServerLevel[world]', x=-181.04, y=62.90, z=242.65] died, message: 'Weaponsmith suffocated in a wall'
-[21:18:38] [Server thread/INFO]: <sigi99> zZz
-[21:18:44] [Server thread/INFO]: <henrim> zzz
-[21:18:45] [Server thread/INFO]: <henrim> zzz
-[21:18:45] [Server thread/INFO]: <henrim> z
-[21:18:45] [Server thread/INFO]: <henrim> z
-[21:18:46] [Server thread/INFO]: <henrim> zzzzzz
-[21:18:47] [Server thread/INFO]: <henrim> zzzzz
-[21:20:09] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/45153, l='ServerLevel[world]', x=-209.53, y=64.88, z=188.95]
-[21:20:09] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/45153, l='ServerLevel[world]', x=-209.53, y=64.88, z=188.95]
-[21:22:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/45523, l='ServerLevel[world]', x=-92.22, y=64.00, z=192.89]
-[21:22:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/45523, l='ServerLevel[world]', x=-92.22, y=64.00, z=192.89]
-[21:22:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/45621, l='ServerLevel[world]', x=-91.33, y=64.00, z=212.66]
-[21:22:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/45621, l='ServerLevel[world]', x=-91.33, y=64.00, z=212.66]
-[21:25:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/46101, l='ServerLevel[world]', x=-92.68, y=64.00, z=190.68]
-[21:30:24] [Server thread/INFO]: <sigi99> zZz
-[21:30:25] [Server thread/INFO]: <henrim> e
-[21:30:28] [Server thread/INFO]: <henrim> xzxzxzxzx
-[21:30:29] [Server thread/INFO]: <henrim> zzzz
-[21:30:30] [Server thread/INFO]: <henrim> zzzzzz
-[21:30:31] [Server thread/INFO]: <henrim> z
-[21:53:24] [Server thread/INFO]: WaterGrizzly was slain by Enderman
-[21:56:02] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/53329, l='ServerLevel[world]', x=-99.37, y=64.00, z=201.80]
-[21:56:02] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/53329, l='ServerLevel[world]', x=-99.37, y=64.00, z=201.80]
-[21:56:02] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/53329, l='ServerLevel[world]', x=-99.37, y=64.00, z=201.80]
-[22:15:13] [Server thread/INFO]: WaterGrizzly fell from a high place
-[22:22:55] [Server thread/INFO]: <henrim> zzz
-[22:23:06] [Server thread/INFO]: <sigi99> zZz
-[22:23:34] [Server thread/INFO]: Villager bfg['Weaponsmith'/48758, l='ServerLevel[world]', x=-201.90, y=63.00, z=249.50] died, message: 'Weaponsmith suffocated in a wall'
-[22:26:03] [Server thread/INFO]: Villager bfg['Armorer'/137, l='ServerLevel[world]', x=-203.49, y=63.06, z=249.50] died, message: 'Armorer suffocated in a wall'
-[22:29:38] [Server thread/INFO]: Villager bfg['Armorer'/47299, l='ServerLevel[world]', x=-203.66, y=63.00, z=249.49] died, message: 'Armorer suffocated in a wall'
-[22:38:48] [Server thread/INFO]: <henrim> xzxzxzx
-[22:38:48] [Server thread/INFO]: <sigi99> zZz
-[22:54:55] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
-[22:54:55] [Server thread/INFO]: WaterGrizzly left the game
-[23:00:57] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[23:00:57] [Server thread/INFO]: sigi99 left the game
-[23:06:34] [User Authenticator #6/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[23:06:35] [Server thread/INFO]: sigi99[/84.202.68.78:53886] logged in with entity id 67157 at (-189.61487380110864, 75.0, 240.91620978140816)
-[23:06:35] [Server thread/INFO]: sigi99 joined the game
-[23:08:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Wheat'/67771, l='ServerLevel[world]', x=-124.58, y=63.94, z=221.58]
-[23:09:10] [Server thread/INFO]: Villager bfg['Fisherman'/135, l='ServerLevel[world]', x=-186.43, y=63.00, z=237.03] died, message: 'Fisherman was slain by Zombie'
-[23:09:15] [Server thread/INFO]: Villager bfg['Fisherman'/145, l='ServerLevel[world]', x=-186.30, y=63.00, z=234.30] died, message: 'Fisherman was slain by Zombie Villager'
-[23:09:19] [Server thread/INFO]: Villager bfg['Fisherman'/69, l='ServerLevel[world]', x=-186.30, y=63.00, z=235.96] died, message: 'Fisherman was slain by Zombie Villager'
-[23:09:21] [Server thread/INFO]: Villager bfg['Fisherman'/132, l='ServerLevel[world]', x=-186.70, y=63.00, z=237.70] died, message: 'Fisherman was slain by Zombie Villager'
-[23:10:06] [Server thread/INFO]: <sigi99> zZz
-[23:10:26] [Server thread/INFO]: <henrim> zzzz
-[23:11:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/68957, l='ServerLevel[world]', x=-92.39, y=64.00, z=205.93]
-[23:11:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/68957, l='ServerLevel[world]', x=-92.39, y=64.00, z=205.93]
-[23:12:30] [Server thread/INFO]: <henrim> tror du njord merker noe hvis vi bare stopper
-[23:12:47] [Server thread/INFO]: <sigi99> nei ikke egt
-[23:19:39] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[23:19:39] [Server thread/INFO]: sigi99 left the game
-[23:19:40] [Server thread/INFO]: henrim lost connection: Disconnected
-[23:19:40] [Server thread/INFO]: henrim left the game
-[23:20:05] [Server thread/INFO]: Stopping the server
-[23:20:05] [Server thread/INFO]: Stopping server
-[23:20:05] [Server thread/INFO]: Saving players
-[23:20:05] [Server thread/INFO]: Saving worlds
-[23:20:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:20:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:20:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:20:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:20:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:20:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:20:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:20:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:20:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:41:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:41:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:41:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:41:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:41:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:41:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:41:44] [main/INFO]: Reloading ResourceManager: Default
+[20:41:44] [Worker-Main-6/INFO]: Loaded 7 recipes
+[20:41:45] [Worker-Main-6/INFO]: Loaded 927 advancements
+[20:41:46] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[20:41:46] [Server thread/INFO]: Loading properties
+[20:41:46] [Server thread/INFO]: Default game type: SURVIVAL
+[20:41:46] [Server thread/INFO]: Generating keypair
+[20:41:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:41:46] [Server thread/INFO]: Using default channel type
+[20:41:47] [Server thread/INFO]: Preparing level "world"
+[20:41:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:41:48] [Server thread/INFO]: Preparing spawn area: 0%
+[20:41:48] [Server thread/INFO]: Preparing spawn area: 0%
+[20:41:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:41:49] [Server thread/INFO]: Time elapsed: 2271 ms
+[20:41:49] [Server thread/INFO]: Done (2.380s)! For help, type "help"
+[20:42:00] [User Authenticator #1/INFO]: UUID of player WaterGrizzly is b4e1de42-112d-4a44-bc5d-d8bc0add08fd
+[20:42:00] [Server thread/INFO]: WaterGrizzly[/127.0.0.1:52661] logged in with entity id 554 at (-441.76249998807907, 69.0, 429.40684124056895)
+[20:42:00] [Server thread/INFO]: WaterGrizzly joined the game
+[20:42:43] [Server thread/INFO]: WaterGrizzly lost connection: Disconnected
+[20:42:43] [Server thread/INFO]: WaterGrizzly left the game
+[20:42:50] [Server thread/INFO]: Stopping the server
+[20:42:50] [Server thread/INFO]: Stopping server
+[20:42:50] [Server thread/INFO]: Saving players
+[20:42:50] [Server thread/INFO]: Saving worlds
+[20:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:42:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:42:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:42:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:42:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:42:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:42:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:42:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:42:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
