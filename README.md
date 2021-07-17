@@ -1,8 +1,8 @@
-# RobotikkMCServer
-En MC verden med server for robotikkstudenter
+# Oppsallguttas MCServer
+En MC verden med server for Oppsallgutta
 
 ## Samlet IP:
-mcrobotikk.duckdns.org
+emsis-rver.duckdns.org
 
 ## Hvordan bruke serveren:
 1. Pull siste versjon fra Git
