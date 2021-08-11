@@ -1,57 +1,71 @@
-[21:08:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:08:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:08:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:08:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:08:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:08:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:08:18] [main/INFO]: Reloading ResourceManager: Default
-[21:08:19] [Worker-Main-9/INFO]: Loaded 7 recipes
-[21:08:19] [Worker-Main-9/INFO]: Loaded 1137 advancements
-[21:08:20] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[21:08:20] [Server thread/INFO]: Loading properties
-[21:08:20] [Server thread/INFO]: Default game type: SURVIVAL
-[21:08:20] [Server thread/INFO]: Generating keypair
-[21:08:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:08:21] [Server thread/INFO]: Using default channel type
-[21:08:21] [Server thread/INFO]: Preparing level "worldCave"
-[21:08:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:08:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:08:22] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[21:08:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:08:23] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[21:08:23] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[21:08:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:08:24] [Worker-Main-14/INFO]: Preparing spawn area: 2%
-[21:08:29] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[21:08:29] [Worker-Main-13/INFO]: Preparing spawn area: 16%
-[21:08:30] [Worker-Main-11/INFO]: Preparing spawn area: 82%
-[21:08:30] [Server thread/INFO]: Time elapsed: 8785 ms
-[21:08:30] [Server thread/INFO]: Done (8.901s)! For help, type "help"
-[21:08:53] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[21:08:53] [Server thread/INFO]: henrim[/46.9.155.62:27350] logged in with entity id 83 at (0.8661667152108208, 65.0, -384.1274848623179)
-[21:08:53] [Server thread/INFO]: henrim joined the game
-[21:09:05] [User Authenticator #2/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
-[21:09:05] [Server thread/INFO]: sigi99[/192.168.10.1:57210] logged in with entity id 192 at (-4.620535560423076, 65.0, -385.5553496197854)
-[21:09:05] [Server thread/INFO]: sigi99 joined the game
-[21:09:34] [Server thread/INFO]: <sigi99> zZz
-[21:20:34] [Server thread/INFO]: henrim has made the advancement [Ice Bucket Challenge]
-[21:20:46] [Server thread/INFO]: <sigi99> zZz
-[21:20:54] [Server thread/INFO]: henrim lost connection: Disconnected
-[21:20:54] [Server thread/INFO]: henrim left the game
-[21:20:58] [User Authenticator #3/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
-[21:20:58] [Server thread/INFO]: henrim[/46.9.155.62:27388] logged in with entity id 2583 at (-26.69999998807907, 9.0, -611.3000000119209)
-[21:20:58] [Server thread/INFO]: henrim joined the game
-[21:31:53] [Server thread/INFO]: <henrim> zzzzzzz
-[21:31:58] [Server thread/INFO]: <sigi99> wzZz
-[21:38:14] [Server thread/INFO]: sigi99 lost connection: Disconnected
-[21:38:14] [Server thread/INFO]: sigi99 left the game
-[21:38:15] [Server thread/INFO]: henrim lost connection: Disconnected
-[21:38:15] [Server thread/INFO]: henrim left the game
+[21:12:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:12:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:12:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:12:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:24] [main/INFO]: Reloading ResourceManager: Default
+[21:12:25] [Worker-Main-8/INFO]: Loaded 7 recipes
+[21:12:25] [Worker-Main-8/INFO]: Loaded 1137 advancements
+[21:12:27] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[21:12:27] [Server thread/INFO]: Loading properties
+[21:12:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:27] [Server thread/INFO]: Generating keypair
+[21:12:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:12:27] [Server thread/INFO]: Using default channel type
+[21:12:27] [Server thread/INFO]: Preparing level "worldCave"
+[21:12:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:28] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[21:12:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:12:28] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[21:12:29] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:36] [Worker-Main-15/INFO]: Preparing spawn area: 70%
+[21:12:37] [Worker-Main-8/INFO]: Preparing spawn area: 89%
+[21:12:41] [Server thread/INFO]: Time elapsed: 13095 ms
+[21:12:41] [Server thread/INFO]: Done (13.238s)! For help, type "help"
+[21:13:32] [User Authenticator #1/INFO]: UUID of player henrim is 0a90f0b3-3f22-41c6-a7fa-792626c4998d
+[21:13:33] [Server thread/INFO]: henrim[/31.45.118.80:51880] logged in with entity id 82 at (-19.687515461583313, 71.0, -399.4202318935725)
+[21:13:33] [Server thread/INFO]: henrim joined the game
+[21:14:00] [User Authenticator #2/INFO]: UUID of player sigi99 is 84daffd4-edaf-419b-9408-d07f46a95c2f
+[21:14:00] [Server thread/INFO]: sigi99[/195.139.118.87:59677] logged in with entity id 209 at (-17.28106493182625, 71.0, -402.23748428499306)
+[21:14:00] [Server thread/INFO]: sigi99 joined the game
+[21:17:15] [Server thread/INFO]: <henrim> zzzzzzzzzzz
+[21:17:16] [Server thread/INFO]: <sigi99> zZz
+[21:20:45] [Server thread/INFO]: henrim has made the advancement [We Need to Go Deeper]
+[21:21:49] [Server thread/INFO]: sigi99 has made the advancement [We Need to Go Deeper]
+[21:48:25] [Server thread/INFO]: <henrim> zzzzzzzzz
+[21:48:28] [Server thread/INFO]: <sigi99> zZz
+[21:51:04] [Server thread/INFO]: henrim burned to death
+[22:21:02] [Server thread/INFO]: <henrim> zzz
+[22:21:03] [Server thread/INFO]: <sigi99> zZz
+[22:32:56] [Server thread/INFO]: <sigi99> zZz
+[22:35:32] [Server thread/INFO]: sigi99 lost connection: Disconnected
+[22:35:32] [Server thread/INFO]: sigi99 left the game
+[22:35:35] [Server thread/INFO]: henrim lost connection: Disconnected
+[22:35:35] [Server thread/INFO]: henrim left the game
+[22:35:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:35:42] [Server thread/INFO]: dsstop<--[HERE]
+[22:35:46] [Server thread/INFO]: Stopping the server
+[22:35:46] [Server thread/INFO]: Stopping server
+[22:35:46] [Server thread/INFO]: Saving players
+[22:35:46] [Server thread/INFO]: Saving worlds
+[22:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[worldCave]'/minecraft:overworld
+[22:35:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[worldCave]'/minecraft:the_nether
+[22:35:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[worldCave]'/minecraft:the_end
+[22:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (worldCave): All chunks are saved
+[22:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
